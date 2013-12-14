@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.2.0" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="40.7583100" minlon="-111.8855100" maxlat="40.7611700" maxlon="-111.8824800"/>
+ <node id="83547445" visible="true" version="7" changeset="12382081" timestamp="2012-07-20T15:56:14Z" user="mvexel" uid="8909" lat="40.7584578" lon="-111.8853189">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="83547447" visible="true" version="7" changeset="12308255" timestamp="2012-07-19T05:56:03Z" user="mvexel" uid="8909" lat="40.7584829" lon="-111.8825904">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="376200033" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7603740" lon="-111.8846371"/>
+ <node id="376200012" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7602009" lon="-111.8850219"/>
+ <node id="419857853" visible="true" version="2" changeset="14183413" timestamp="2012-12-07T04:26:52Z" user="wrk3" uid="157189" lat="40.7594750" lon="-111.8847070">
+  <tag k="access" v="stairs to parking"/>
+  <tag k="amenity" v="parking"/>
+  <tag k="covered" v="yes"/>
+  <tag k="fee" v="yes"/>
+  <tag k="parking" v="underground"/>
+  <tag k="park_ride" v="no"/>
+  <tag k="surface" v="concrete"/>
+ </node>
+ <node id="419857849" visible="true" version="3" changeset="1507884" timestamp="2009-06-13T20:19:35Z" user="HurricaneCoast" uid="91266" lat="40.7595437" lon="-111.8840777"/>
+ <node id="419857852" visible="true" version="3" changeset="1507884" timestamp="2009-06-13T20:19:35Z" user="HurricaneCoast" uid="91266" lat="40.7595199" lon="-111.8846803"/>
+ <node id="419857850" visible="true" version="4" changeset="9134074" timestamp="2011-08-26T23:34:43Z" user="mvexel" uid="8909" lat="40.7593338" lon="-111.8841780"/>
+ <node id="419857851" visible="true" version="4" changeset="9134074" timestamp="2011-08-26T23:34:43Z" user="mvexel" uid="8909" lat="40.7594153" lon="-111.8846854"/>
+ <node id="419869260" visible="true" version="2" changeset="8609269" timestamp="2011-07-02T15:50:52Z" user="wrk3" uid="157189" lat="40.7587635" lon="-111.8841843"/>
+ <node id="2278989969" visible="true" version="1" changeset="15843712" timestamp="2013-04-24T00:42:36Z" user="mvexel" uid="8909" lat="40.7590973" lon="-111.8845787">
+  <tag k="building" v="entrance"/>
+ </node>
+ <node id="2278989970" visible="true" version="1" changeset="15843712" timestamp="2013-04-24T00:42:36Z" user="mvexel" uid="8909" lat="40.7592150" lon="-111.8851665"/>
+ <node id="2278989971" visible="true" version="1" changeset="15843712" timestamp="2013-04-24T00:42:36Z" user="mvexel" uid="8909" lat="40.7592171" lon="-111.8841451"/>
+ <node id="1347056659" visible="true" version="3" changeset="15843712" timestamp="2013-04-24T00:42:40Z" user="mvexel" uid="8909" lat="40.7596440" lon="-111.8837780">
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:housenumber" v="210 East, Suite 7"/>
+  <tag k="addr:postcode" v="84111"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="amenity" v="studio"/>
+  <tag k="description" v="Public broadcasting radio station"/>
+  <tag k="name" v="Denkers Studio"/>
+  <tag k="operator" v="KCPW"/>
+ </node>
+ <node id="356682213" visible="true" version="2" changeset="3900968" timestamp="2010-02-17T13:58:14Z" user="Geogast" uid="51045" lat="40.7610572" lon="-111.8829915">
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="ele" v="1302"/>
+  <tag k="gnis:county_id" v="035"/>
+  <tag k="gnis:created" v="02/25/1989"/>
+  <tag k="gnis:feature_id" v="1449233"/>
+  <tag k="gnis:state_id" v="49"/>
+  <tag k="name" v="Central Christian Church"/>
+  <tag k="religion" v="christian"/>
+ </node>
+ <node id="1615680798" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7586001" lon="-111.8855015"/>
+ <node id="1615680882" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:26Z" user="mvexel" uid="8909" lat="40.7594806" lon="-111.8853115"/>
+ <node id="1615680901" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595633" lon="-111.8853106"/>
+ <node id="1615680903" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595646" lon="-111.8852291"/>
+ <node id="1615680905" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595650" lon="-111.8851710"/>
+ <node id="1615680924" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:28Z" user="mvexel" uid="8909" lat="40.7596452" lon="-111.8853097"/>
+ <node id="1615681055" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7604970" lon="-111.8855096"/>
+ <node id="83662988" visible="true" version="15" changeset="7672295" timestamp="2011-03-26T06:14:31Z" user="NE2" uid="207745" lat="40.7610630" lon="-111.8837783"/>
+ <node id="1218568969" visible="true" version="2" changeset="10355782" timestamp="2012-01-10T21:37:27Z" user="mvexel" uid="8909" lat="40.7605528" lon="-111.8826094">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218568981" visible="true" version="2" changeset="10355782" timestamp="2012-01-10T21:37:27Z" user="mvexel" uid="8909" lat="40.7607482" lon="-111.8826051">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218568997" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:24Z" user="NE2" uid="207745" lat="40.7605386" lon="-111.8853002">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218569041" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:26Z" user="NE2" uid="207745" lat="40.7605536" lon="-111.8831804"/>
+ <node id="1218569061" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:28Z" user="NE2" uid="207745" lat="40.7607367" lon="-111.8840664"/>
+ <node id="1218569077" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:29Z" user="NE2" uid="207745" lat="40.7607547" lon="-111.8832396"/>
+ <node id="1218569101" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:31Z" user="NE2" uid="207745" lat="40.7605360" lon="-111.8839863"/>
+ <node id="1218569170" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:36Z" user="NE2" uid="207745" lat="40.7607513" lon="-111.8834862"/>
+ <node id="1218569185" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:37Z" user="NE2" uid="207745" lat="40.7607393" lon="-111.8837859"/>
+ <node id="1218569271" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:43Z" user="NE2" uid="207745" lat="40.7605360" lon="-111.8837544"/>
+ <node id="1218569308" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:46Z" user="NE2" uid="207745" lat="40.7607359" lon="-111.8852981">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218569362" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:50Z" user="NE2" uid="207745" lat="40.7605492" lon="-111.8834401"/>
+ <node id="419869261" visible="true" version="2" changeset="8609269" timestamp="2011-07-02T15:50:52Z" user="wrk3" uid="157189" lat="40.7590975" lon="-111.8841847"/>
+ <node id="419869258" visible="true" version="2" changeset="8609269" timestamp="2011-07-02T15:50:52Z" user="wrk3" uid="157189" lat="40.7590970" lon="-111.8849807"/>
+ <node id="419869259" visible="true" version="2" changeset="8609269" timestamp="2011-07-02T15:50:52Z" user="wrk3" uid="157189" lat="40.7587630" lon="-111.8849803"/>
+ <node id="1347046002" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7596280" lon="-111.8837408"/>
+ <node id="1347046004" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7599246" lon="-111.8838454"/>
+ <node id="1347046005" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7597072" lon="-111.8837515"/>
+ <node id="1347046006" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7598393" lon="-111.8837917"/>
+ <node id="1347046007" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7597519" lon="-111.8838615"/>
+ <node id="1347046008" visible="true" version="1" changeset="8609269" timestamp="2011-07-02T16:01:31Z" user="wrk3" uid="157189" lat="40.7598433" lon="-111.8839017"/>
+ <node id="376200051" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7596434" lon="-111.8847699"/>
+ <node id="376200041" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7599873" lon="-111.8840802"/>
+ <node id="376200019" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7602956" lon="-111.8848572"/>
+ <node id="376200042" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7599045" lon="-111.8841670"/>
+ <node id="376200035" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7603237" lon="-111.8843982"/>
+ <node id="376200022" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7602523" lon="-111.8847514"/>
+ <node id="376200009" visible="true" version="6" changeset="8609269" timestamp="2011-07-02T16:01:32Z" user="wrk3" uid="157189" lat="40.7596461" lon="-111.8850088"/>
+ <node id="376200046" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7598125" lon="-111.8843169"/>
+ <node id="376200036" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7602113" lon="-111.8841191"/>
+ <node id="376200016" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7602014" lon="-111.8848531"/>
+ <node id="376200049" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7597283" lon="-111.8844977"/>
+ <node id="376200023" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7603196" lon="-111.8847446"/>
+ <node id="376200037" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7600617" lon="-111.8839391"/>
+ <node id="376200025" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7603291" lon="-111.8847967"/>
+ <node id="376200029" visible="true" version="4" changeset="8609269" timestamp="2011-07-02T16:01:33Z" user="wrk3" uid="157189" lat="40.7603800" lon="-111.8847975"/>
+ <node id="1347045994" visible="true" version="2" changeset="9134074" timestamp="2011-08-26T23:34:42Z" user="mvexel" uid="8909" lat="40.7599017" lon="-111.8839398"/>
+ <node id="1347046009" visible="true" version="2" changeset="9134074" timestamp="2011-08-26T23:34:43Z" user="mvexel" uid="8909" lat="40.7596315" lon="-111.8838295"/>
+ <node id="1413935079" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:25Z" user="mvexel" uid="8909" lat="40.7597514" lon="-111.8842097">
+  <tag k="amenity" v="theatre"/>
+  <tag k="name" v="Amphitheatre"/>
+ </node>
+ <node id="1413935107" visible="true" version="2" changeset="15843712" timestamp="2013-04-24T00:42:40Z" user="mvexel" uid="8909" lat="40.7592162" lon="-111.8847021"/>
+ <node id="1413935096" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:26Z" user="mvexel" uid="8909" lat="40.7584783" lon="-111.8835074"/>
+ <node id="1413935097" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:26Z" user="mvexel" uid="8909" lat="40.7590447" lon="-111.8835329"/>
+ <node id="1413935098" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:26Z" user="mvexel" uid="8909" lat="40.7590653" lon="-111.8839807"/>
+ <node id="1413935099" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:26Z" user="mvexel" uid="8909" lat="40.7590704" lon="-111.8840265"/>
+ <node id="1413935100" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:26Z" user="mvexel" uid="8909" lat="40.7590756" lon="-111.8837653"/>
+ <node id="1413935101" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7591218" lon="-111.8835923"/>
+ <node id="1413935102" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7591385" lon="-111.8838806"/>
+ <node id="1413935103" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7591501" lon="-111.8840214"/>
+ <node id="1413935104" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7591578" lon="-111.8839417"/>
+ <node id="1413935105" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7591604" lon="-111.8834786"/>
+ <node id="1413935106" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7592195" lon="-111.8834192"/>
+ <node id="1413935108" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7592812" lon="-111.8837958"/>
+ <node id="1413935109" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7592901" lon="-111.8833683"/>
+ <node id="1413935110" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7593120" lon="-111.8838637"/>
+ <node id="1413935111" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7593505" lon="-111.8843912"/>
+ <node id="1413935112" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7593711" lon="-111.8843827"/>
+ <node id="1413935113" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7594029" lon="-111.8847009"/>
+ <node id="1413935114" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7594135" lon="-111.8837551"/>
+ <node id="1413935115" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7594790" lon="-111.8838145"/>
+ <node id="1413935116" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:27Z" user="mvexel" uid="8909" lat="40.7594919" lon="-111.8852274"/>
+ <node id="1413935117" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7595188" lon="-111.8847017"/>
+ <node id="1413935118" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7595381" lon="-111.8827323"/>
+ <node id="1413935119" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7595381" lon="-111.8833226"/>
+ <node id="1413935120" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7595445" lon="-111.8837466"/>
+ <node id="1413935121" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596178" lon="-111.8845880"/>
+ <node id="1413935122" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596255" lon="-111.8827356"/>
+ <node id="1413935123" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596268" lon="-111.8844624"/>
+ <node id="1413935124" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596306" lon="-111.8829528"/>
+ <node id="1413935125" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596345" lon="-111.8852308"/>
+ <node id="1413935126" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596512" lon="-111.8842216"/>
+ <node id="1413935127" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596602" lon="-111.8841656"/>
+ <node id="1413935128" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596653" lon="-111.8842826"/>
+ <node id="1413935129" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596807" lon="-111.8843233"/>
+ <node id="1413935130" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7596833" lon="-111.8841198"/>
+ <node id="1413935131" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:28Z" user="mvexel" uid="8909" lat="40.7597031" lon="-111.8842135"/>
+ <node id="1413935132" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597043" lon="-111.8841839"/>
+ <node id="1413935133" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597131" lon="-111.8841607"/>
+ <node id="1413935134" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597141" lon="-111.8840910"/>
+ <node id="1413935135" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597217" lon="-111.8842553"/>
+ <node id="1413935136" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597297" lon="-111.8841423"/>
+ <node id="1413935137" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597437" lon="-111.8843505"/>
+ <node id="1413935138" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597452" lon="-111.8842692"/>
+ <node id="1413935139" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597527" lon="-111.8841344"/>
+ <node id="1413935140" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597591" lon="-111.8840825"/>
+ <node id="1413935141" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597737" lon="-111.8844002"/>
+ <node id="1413935142" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597747" lon="-111.8842642"/>
+ <node id="1413935143" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597800" lon="-111.8841440"/>
+ <node id="1413935144" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597913" lon="-111.8842486"/>
+ <node id="1413935145" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597951" lon="-111.8829799"/>
+ <node id="1413935146" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7597992" lon="-111.8841706"/>
+ <node id="1413935147" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:29Z" user="mvexel" uid="8909" lat="40.7598027" lon="-111.8842231"/>
+ <node id="1413935148" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7598067" lon="-111.8841062"/>
+ <node id="1413935149" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7598359" lon="-111.8841379"/>
+ <node id="1413935150" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7598735" lon="-111.8841045"/>
+ <node id="1413935151" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7598735" lon="-111.8841758"/>
+ <node id="1413935152" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7598865" lon="-111.8841963"/>
+ <node id="1413935154" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7599184" lon="-111.8839994"/>
+ <node id="1413935157" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600038" lon="-111.8838995"/>
+ <node id="1413935165" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600097" lon="-111.8837619"/>
+ <node id="1413935166" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600107" lon="-111.8840359"/>
+ <node id="1413935167" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600174" lon="-111.8840893"/>
+ <node id="1413935168" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600688" lon="-111.8836889"/>
+ <node id="1413935169" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600739" lon="-111.8841842"/>
+ <node id="1413935170" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600867" lon="-111.8834599"/>
+ <node id="1413935171" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7600970" lon="-111.8837144"/>
+ <node id="1413935173" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:30Z" user="mvexel" uid="8909" lat="40.7601086" lon="-111.8830851"/>
+ <node id="1413935181" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7601960" lon="-111.8844692"/>
+ <node id="1413935184" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7603789" lon="-111.8847678"/>
+ <node id="1413935186" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604311" lon="-111.8847711"/>
+ <node id="1413935188" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604324" lon="-111.8837263"/>
+ <node id="1413935190" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604363" lon="-111.8835193"/>
+ <node id="1413935192" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604375" lon="-111.8833141"/>
+ <node id="1413935194" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604388" lon="-111.8834735"/>
+ <node id="1413935199" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604605" lon="-111.8853009"/>
+ <node id="1413935201" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7604786" lon="-111.8836906"/>
+ <node id="1413935203" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7605459" lon="-111.8835193"/>
+ <node id="1413935205" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909" lat="40.7606413" lon="-111.8852991"/>
+ <node id="1413980471" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:52Z" user="mvexel" uid="8909" lat="40.7586541" lon="-111.8835153"/>
+ <node id="1413980468" visible="true" version="2" changeset="10568174" timestamp="2012-02-02T14:59:54Z" user="mvexel" uid="8909" lat="40.7584609" lon="-111.8851529"/>
+ <node id="1413980473" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:52Z" user="mvexel" uid="8909" lat="40.7594813" lon="-111.8851726"/>
+ <node id="1413980475" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7596380" lon="-111.8851696"/>
+ <node id="1413980482" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7603115" lon="-111.8852347"/>
+ <node id="1413980484" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7603147" lon="-111.8851564"/>
+ <node id="1413980485" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7604398" lon="-111.8852312"/>
+ <node id="1413980486" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7604613" lon="-111.8852306"/>
+ <node id="1413980487" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909" lat="40.7604663" lon="-111.8847839"/>
+ <node id="1413980469" visible="true" version="2" changeset="10568174" timestamp="2012-02-02T14:59:54Z" user="mvexel" uid="8909" lat="40.7586385" lon="-111.8853180"/>
+ <node id="1413980470" visible="true" version="2" changeset="10568174" timestamp="2012-02-02T14:59:54Z" user="mvexel" uid="8909" lat="40.7586437" lon="-111.8851533"/>
+ <node id="1413980472" visible="true" version="2" changeset="10355782" timestamp="2012-01-10T21:37:28Z" user="mvexel" uid="8909" lat="40.7586495" lon="-111.8825903"/>
+ <node id="1581511468" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583254" lon="-111.8853221"/>
+ <node id="1581511501" visible="true" version="2" changeset="10355782" timestamp="2012-01-10T21:37:28Z" user="mvexel" uid="8909" lat="40.7583288" lon="-111.8825907"/>
+ <node id="1584802859" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7605971" lon="-111.8850322"/>
+ <node id="1584802860" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7606049" lon="-111.8836624"/>
+ <node id="1584802888" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606659" lon="-111.8831941"/>
+ <node id="1584802890" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606712" lon="-111.8852988"/>
+ <node id="1584802892" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606760" lon="-111.8850358"/>
+ <node id="1584802898" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606808" lon="-111.8836775"/>
+ <node id="1584813031" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:10Z" user="mvexel" uid="8909" lat="40.7604628" lon="-111.8851003"/>
+ <node id="1584813032" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7605382" lon="-111.8851003"/>
+ <node id="1584813040" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7606093" lon="-111.8851058"/>
+ <node id="1584813042" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7606354" lon="-111.8838138"/>
+ <node id="1584813043" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7606387" lon="-111.8850828"/>
+ <node id="1584813050" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7606677" lon="-111.8850987"/>
+ <node id="1584813055" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7607360" lon="-111.8850989"/>
+ <node id="1584813022" visible="true" version="3" changeset="13839847" timestamp="2012-11-11T21:31:39Z" user="mvexel" uid="8909" lat="40.7606007" lon="-111.8844102">
+  <tag k="light_rail" v="yes"/>
+  <tag k="name" v="Library"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="1584813023" visible="true" version="3" changeset="13839847" timestamp="2012-11-11T21:31:39Z" user="mvexel" uid="8909" lat="40.7606782" lon="-111.8844124">
+  <tag k="light_rail" v="yes"/>
+  <tag k="name" v="Library"/>
+  <tag k="public_transport" v="stop_position"/>
+ </node>
+ <node id="1584813071" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608258" lon="-111.8850989"/>
+ <node id="1584813067" visible="true" version="3" changeset="10370868" timestamp="2012-01-12T16:39:27Z" user="mvexel" uid="8909" lat="40.7608177" lon="-111.8826049"/>
+ <node id="1584879733" visible="true" version="1" changeset="10353824" timestamp="2012-01-10T18:30:03Z" user="mvexel" uid="8909" lat="40.7606245" lon="-111.8847408">
+  <tag k="amenity" v="vending_machine"/>
+  <tag k="vending" v="public_transport_tickets"/>
+ </node>
+ <node id="1585087084" visible="true" version="2" changeset="10370868" timestamp="2012-01-12T16:39:27Z" user="mvexel" uid="8909" lat="40.7595859" lon="-111.8826141">
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1832170391" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:43Z" user="mvexel" uid="8909" lat="40.7586503" lon="-111.8827431"/>
+ <node id="1832170392" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:43Z" user="mvexel" uid="8909" lat="40.7586511" lon="-111.8839922"/>
+ <node id="1832170406" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:43Z" user="mvexel" uid="8909" lat="40.7588049" lon="-111.8827674"/>
+ <node id="1832170411" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7588654" lon="-111.8832449"/>
+ <node id="1832170412" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7588733" lon="-111.8833352"/>
+ <node id="1832170414" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7588878" lon="-111.8831841"/>
+ <node id="1832170415" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7589009" lon="-111.8833734"/>
+ <node id="1832170416" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7589325" lon="-111.8829115"/>
+ <node id="1832170418" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7589496" lon="-111.8831234"/>
+ <node id="1832170419" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7589562" lon="-111.8833890"/>
+ <node id="1832170420" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7589677" lon="-111.8829709"/>
+ <node id="1832170421" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590017" lon="-111.8829210"/>
+ <node id="1832170422" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590088" lon="-111.8833751"/>
+ <node id="1832170423" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590180" lon="-111.8830556"/>
+ <node id="1832170427" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590278" lon="-111.8829051"/>
+ <node id="1832170429" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590469" lon="-111.8833091"/>
+ <node id="1832170430" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590481" lon="-111.8831270"/>
+ <node id="1832170431" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7590659" lon="-111.8828940"/>
+ <node id="1832170432" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7590674" lon="-111.8840000"/>
+ <node id="1832170434" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7590705" lon="-111.8831212"/>
+ <node id="1832170435" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7590726" lon="-111.8831851"/>
+ <node id="1832170437" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7590929" lon="-111.8829358"/>
+ <node id="1832170439" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591021" lon="-111.8830018"/>
+ <node id="1832170441" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591054" lon="-111.8829095"/>
+ <node id="1832170444" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591105" lon="-111.8831040"/>
+ <node id="1832170445" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591127" lon="-111.8828942"/>
+ <node id="1832170446" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591140" lon="-111.8832831"/>
+ <node id="1832170447" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591232" lon="-111.8830400"/>
+ <node id="1832170448" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591301" lon="-111.8830917"/>
+ <node id="1832170450" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591459" lon="-111.8830544"/>
+ <node id="1832170451" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591534" lon="-111.8830591"/>
+ <node id="1832170452" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591626" lon="-111.8828699"/>
+ <node id="1832170453" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591863" lon="-111.8834526"/>
+ <node id="1832170454" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:45Z" user="mvexel" uid="8909" lat="40.7591903" lon="-111.8830470"/>
+ <node id="1832170464" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:46Z" user="mvexel" uid="8909" lat="40.7592797" lon="-111.8830088"/>
+ <node id="1832170472" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:46Z" user="mvexel" uid="8909" lat="40.7594033" lon="-111.8828004"/>
+ <node id="1832170476" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:46Z" user="mvexel" uid="8909" lat="40.7594809" lon="-111.8829636"/>
+ <node id="1832170480" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7595125" lon="-111.8827848"/>
+ <node id="1832170482" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7595381" lon="-111.8827863"/>
+ <node id="1832170483" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7595381" lon="-111.8829595"/>
+ <node id="1832170487" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7596268" lon="-111.8827916"/>
+ <node id="1832170490" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7597440" lon="-111.8827987"/>
+ <node id="1832170500" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:47Z" user="mvexel" uid="8909" lat="40.7599518" lon="-111.8828456"/>
+ <node id="1832170512" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:48Z" user="mvexel" uid="8909" lat="40.7601596" lon="-111.8829410"/>
+ <node id="1832170529" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:49Z" user="mvexel" uid="8909" lat="40.7603792" lon="-111.8830834"/>
+ <node id="1832170531" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:49Z" user="mvexel" uid="8909" lat="40.7604357" lon="-111.8831355"/>
+ <node id="1413935156" visible="true" version="2" changeset="13512986" timestamp="2012-10-15T23:56:45Z" user="nicke" uid="272789" lat="40.7599991" lon="-111.8840601"/>
+ <node id="1413935182" visible="true" version="4" changeset="14229400" timestamp="2012-12-10T19:46:34Z" user="woodpeck_repair" uid="145231" lat="40.7602958" lon="-111.8847470">
+  <tag k="building" v="entrance"/>
+ </node>
+ <node id="1581511610" visible="true" version="3" changeset="13512986" timestamp="2012-10-15T23:56:46Z" user="nicke" uid="272789" lat="40.7606628" lon="-111.8826069">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1347055203" visible="true" version="3" changeset="14183422" timestamp="2012-12-07T04:28:58Z" user="wrk3" uid="157189" lat="40.7597170" lon="-111.8837920">
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:housenumber" v="210 East, Suite 8"/>
+  <tag k="addr:postcode" v="84111"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="SLCC Community Writing Center"/>
+  <tag k="operator" v="Salt Lake Community College"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="1413935095" visible="true" version="2" changeset="14183432" timestamp="2012-12-07T04:30:54Z" user="wrk3" uid="157189" lat="40.7601240" lon="-111.8835090">
+  <tag k="amenity" v="parking"/>
+  <tag k="capacity:disabled" v="yes"/>
+  <tag k="covered" v="yes"/>
+  <tag k="fee" v="yes"/>
+  <tag k="name" v="Salt Lake City Public Library Parking"/>
+  <tag k="note" v="free for the first half-hour, then $1.50 per half-hour after that"/>
+  <tag k="parking" v="underground"/>
+  <tag k="park_ride" v="no"/>
+  <tag k="surface" v="concrete"/>
+ </node>
+ <node id="2328421315" visible="true" version="1" changeset="16382197" timestamp="2013-06-01T19:34:26Z" user="mash84121" uid="1501508" lat="40.7609168" lon="-111.8834407">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="chinese"/>
+  <tag k="name" v="Charlie Chow's Dragon Grill"/>
+ </node>
+ <node id="2328421316" visible="true" version="1" changeset="16382197" timestamp="2013-06-01T19:34:26Z" user="mash84121" uid="1501508" lat="40.7608802" lon="-111.8836928">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="american"/>
+  <tag k="name" v="Stoneground"/>
+ </node>
+ <node id="2139609322" visible="true" version="1" changeset="14890368" timestamp="2013-02-03T00:02:25Z" user="mvexel" uid="8909" lat="40.7599980" lon="-111.8841583">
+  <tag k="amenity" v="cafe"/>
+ </node>
+ <node id="2139609327" visible="true" version="1" changeset="14890368" timestamp="2013-02-03T00:02:25Z" user="mvexel" uid="8909" lat="40.7601206" lon="-111.8840972">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="sandwich"/>
+ </node>
+ <node id="2139609330" visible="true" version="1" changeset="14890368" timestamp="2013-02-03T00:02:25Z" user="mvexel" uid="8909" lat="40.7602272" lon="-111.8842499">
+  <tag k="shop" v="florist"/>
+ </node>
+ <node id="2139609332" visible="true" version="1" changeset="14890368" timestamp="2013-02-03T00:02:25Z" user="mvexel" uid="8909" lat="40.7602959" lon="-111.8844241">
+  <tag k="shop" v="books"/>
+ </node>
+ <node id="2009611007" visible="true" version="4" changeset="16733294" timestamp="2013-06-27T22:29:10Z" user="mash84121" uid="1501508" lat="40.7606490" lon="-111.8845200">
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="name" v="Library"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="operator" v="Utah Transit Authority"/>
+  <tag k="railway" v="tram_stop"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2364859884" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7611018" lon="-111.8833868"/>
+ <node id="2364859888" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7611571" lon="-111.8830389"/>
+ <node id="2364859889" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608615" lon="-111.8842140"/>
+ <node id="2364859892" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608501" lon="-111.8837696"/>
+ <node id="2364859893" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608471" lon="-111.8833854"/>
+ <node id="2364859894" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7610614" lon="-111.8835697"/>
+ <node id="2364859895" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7610717" lon="-111.8837681"/>
+ <node id="2364859896" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608481" lon="-111.8830680"/>
+ <node id="2364859898" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7611028" lon="-111.8830694"/>
+ <node id="2364859899" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608598" lon="-111.8827564"/>
+ <node id="2364859900" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608494" lon="-111.8835955"/>
+ <node id="2364859901" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7610710" lon="-111.8835940"/>
+ <node id="2364859903" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7608423" lon="-111.8835716"/>
+ <node id="2364859904" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7611605" lon="-111.8827627"/>
+ <node id="2364859908" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7611433" lon="-111.8851535"/>
+ <node id="2364859910" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7608609" lon="-111.8839700"/>
+ <node id="2364859913" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7610605" lon="-111.8833952"/>
+ <node id="2364859915" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7611456" lon="-111.8845552"/>
+ <node id="2364859919" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7608565" lon="-111.8830325"/>
+ <node id="2364859921" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7608414" lon="-111.8833972"/>
+ <node id="2412222332" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7607364" lon="-111.8844583"/>
+ <node id="2412222335" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7608434" lon="-111.8847364"/>
+ <node id="2412222336" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7608458" lon="-111.8849708"/>
+ <node id="2412222337" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7610863" lon="-111.8847320"/>
+ <node id="2412222339" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7610888" lon="-111.8849663"/>
+ <node id="2412222340" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7611223" lon="-111.8844620"/>
+ <node id="2412222341" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7611241" lon="-111.8853010"/>
+ <node id="2430383064" visible="true" version="1" changeset="17489313" timestamp="2013-08-24T19:30:12Z" user="brnrd" uid="1723150" lat="40.7600831" lon="-111.8844341">
+  <tag k="amenity" v="drinking_water"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="2430550899" visible="true" version="1" changeset="17491194" timestamp="2013-08-24T21:59:58Z" user="brnrd" uid="1723150" lat="40.7595925" lon="-111.8837747">
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:housenumber" v="210 East"/>
+  <tag k="addr:postcode" v="84111"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="name" v="KCPW"/>
+  <tag k="phone" v="(801) 359-5279"/>
+  <tag k="website" v="http://kcpw.org/"/>
+  <tag k="wheelchair" v="yes"/>
+  <tag k="wikipedia" v="en:KCPW-FM"/>
+ </node>
+ <node id="2432700785" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7594620" lon="-111.8836946"/>
+ <node id="2432700786" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7594892" lon="-111.8836149"/>
+ <node id="2432700787" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7594546" lon="-111.8834976"/>
+ <node id="2432700788" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7594152" lon="-111.8834716"/>
+ <node id="2432700789" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7593880" lon="-111.8834895"/>
+ <node id="2432700790" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7593695" lon="-111.8835595"/>
+ <node id="2432700791" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7593831" lon="-111.8836442"/>
+ <node id="2432700792" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150" lat="40.7594115" lon="-111.8836963"/>
+ <node id="1832170516" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:48Z" user="mvexel" uid="8909" lat="40.7601842" lon="-111.8521702">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="2048582446" visible="true" version="1" changeset="14142968" timestamp="2012-12-03T18:55:59Z" user="mvexel" uid="8909" lat="40.7629815" lon="-111.8825771">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1584813072" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608259" lon="-111.8739929"/>
+ <node id="1615681019" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604354" lon="-111.8879836"/>
+ <node id="1584802787" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7592492" lon="-111.8421305"/>
+ <node id="1413918525" visible="true" version="3" changeset="10370868" timestamp="2012-01-12T16:39:26Z" user="mvexel" uid="8909" lat="40.7648472" lon="-111.8825809"/>
+ <node id="1524313220" visible="true" version="3" changeset="10258141" timestamp="2011-12-31T21:28:11Z" user="mvexel" uid="8909" lat="40.7606668" lon="-111.8711571">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="419865004" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7594939" lon="-111.8863103"/>
+ <node id="419865541" visible="true" version="2" changeset="10568174" timestamp="2012-02-02T14:59:55Z" user="mvexel" uid="8909" lat="40.7595598" lon="-111.8855651"/>
+ <node id="1615681058" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7605388" lon="-111.8855563"/>
+ <node id="1584813080" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608314" lon="-111.8716778"/>
+ <node id="1615681047" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604911" lon="-111.8880009"/>
+ <node id="83659819" visible="true" version="5" changeset="3505029" timestamp="2010-01-01T02:34:16Z" user="woodpeck_fixbot" uid="147510" lat="40.7553289" lon="-111.8853721"/>
+ <node id="1584813060" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7608203" lon="-111.8680833"/>
+ <node id="1581511616" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:31Z" user="mvexel" uid="8909" lat="40.7606579" lon="-111.8796336">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1519096936" visible="true" version="1" changeset="9963589" timestamp="2011-11-27T06:25:19Z" user="mvexel" uid="8909" lat="40.7604959" lon="-111.8508206">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1584813044" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7606488" lon="-111.8737091">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="384747763" visible="true" version="4" changeset="10014066" timestamp="2011-12-02T03:41:43Z" user="mvexel" uid="8909" lat="40.7600631" lon="-111.8462334">
+  <tag k="bicycle" v="yes"/>
+  <tag k="railway" v="level_crossing"/>
+  <tag k="supervised" v="no"/>
+ </node>
+ <node id="1581511630" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:32Z" user="mvexel" uid="8909" lat="40.7607478" lon="-111.8909871">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584802884" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606530" lon="-111.8673957"/>
+ <node id="1584802803" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7595158" lon="-111.8624924"/>
+ <node id="83608251" visible="true" version="10" changeset="14457017" timestamp="2012-12-29T21:46:11Z" user="mvexel" uid="8909" lat="40.7562953" lon="-111.8824784">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1581924736" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:02Z" user="mvexel" uid="8909" lat="40.7607553" lon="-111.8737978">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1587201966" visible="true" version="1" changeset="10370868" timestamp="2012-01-12T16:39:15Z" user="mvexel" uid="8909" lat="40.7636265" lon="-111.8825749"/>
+ <node id="1585087087" visible="true" version="2" changeset="13512986" timestamp="2012-10-15T23:56:46Z" user="nicke" uid="272789" lat="40.7606511" lon="-111.8824479">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1615681060" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7607373" lon="-111.8879617"/>
+ <node id="1581924735" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:02Z" user="mvexel" uid="8909" lat="40.7606604" lon="-111.8737944">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1615681043" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604591" lon="-111.8913087"/>
+ <node id="1832170550" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:50Z" user="mvexel" uid="8909" lat="40.7608316" lon="-111.8475628">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1615681029" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604484" lon="-111.8867934"/>
+ <node id="1584802783" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7591335" lon="-111.8623393"/>
+ <node id="1584813033" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:11Z" user="mvexel" uid="8909" lat="40.7605546" lon="-111.8737089"/>
+ <node id="1573548503" visible="true" version="1" changeset="10267626" timestamp="2012-01-02T03:37:11Z" user="mvexel" uid="8909" lat="40.7679849" lon="-111.8853417"/>
+ <node id="2364859891" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7612957" lon="-111.8839681"/>
+ <node id="1573548444" visible="true" version="2" changeset="14143023" timestamp="2012-12-03T18:59:10Z" user="mvexel" uid="8909" lat="40.7673348" lon="-111.8853357">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1584802923" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7607792" lon="-111.8910264"/>
+ <node id="1584813076" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608281" lon="-111.8709476"/>
+ <node id="83659809" visible="true" version="12" changeset="10327399" timestamp="2012-01-08T00:58:52Z" user="mvexel" uid="8909" lat="40.7693404" lon="-111.8853762">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1581511481" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583288" lon="-111.8909886"/>
+ <node id="1584813083" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608436" lon="-111.8655076"/>
+ <node id="83541857" visible="true" version="8" changeset="12308255" timestamp="2012-07-19T05:56:03Z" user="mvexel" uid="8909" lat="40.7584903" lon="-111.8795940">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802926" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7607998" lon="-111.8499938"/>
+ <node id="2364859886" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:38Z" user="mash84121" uid="1501508" lat="40.7612963" lon="-111.8842121"/>
+ <node id="2140773496" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7605627" lon="-111.8725098"/>
+ <node id="1413918534" visible="true" version="1" changeset="9133890" timestamp="2011-08-26T22:52:33Z" user="mvexel" uid="8909" lat="40.7651534" lon="-111.8853048"/>
+ <node id="1584802780" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7588862" lon="-111.8621363"/>
+ <node id="1584813077" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608281" lon="-111.8737969"/>
+ <node id="1585087088" visible="true" version="1" changeset="10355782" timestamp="2012-01-10T21:37:07Z" user="mvexel" uid="8909" lat="40.7607472" lon="-111.8824474">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1595623334" visible="true" version="1" changeset="10423740" timestamp="2012-01-18T00:28:35Z" user="mvexel" uid="8909" lat="40.7586357" lon="-111.8767618"/>
+ <node id="1584813073" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608259" lon="-111.8782115"/>
+ <node id="1218569233" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:41Z" user="NE2" uid="207745" lat="40.7607376" lon="-111.8881899">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1485358639" visible="true" version="2" changeset="10353227" timestamp="2012-01-10T17:26:31Z" user="mvexel" uid="8909" lat="40.7585681" lon="-111.8522780">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1218569322" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:47Z" user="NE2" uid="207745" lat="40.7606452" lon="-111.8906404"/>
+ <node id="83608244" visible="true" version="5" changeset="10355782" timestamp="2012-01-10T21:37:29Z" user="mvexel" uid="8909" lat="40.7575771" lon="-111.8824745"/>
+ <node id="1585087089" visible="true" version="1" changeset="10355782" timestamp="2012-01-10T21:37:07Z" user="mvexel" uid="8909" lat="40.7608167" lon="-111.8824502"/>
+ <node id="1584802881" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606487" lon="-111.8471612"/>
+ <node id="1584802919" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7607062" lon="-111.8502184"/>
+ <node id="1584802832" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7603506" lon="-111.8521302"/>
+ <node id="1615681049" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7604959" lon="-111.8893160"/>
+ <node id="1581511620" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:31Z" user="mvexel" uid="8909" lat="40.7606601" lon="-111.8767574">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1218569264" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:43Z" user="NE2" uid="207745" lat="40.7607555" lon="-111.8787490"/>
+ <node id="1615680792" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7584598" lon="-111.8855773"/>
+ <node id="1571999296" visible="true" version="2" changeset="10258141" timestamp="2011-12-31T21:28:11Z" user="mvexel" uid="8909" lat="40.7606667" lon="-111.8709454">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1584802886" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606633" lon="-111.8632884"/>
+ <node id="1584813084" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608447" lon="-111.8651348"/>
+ <node id="2140773490" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7605559" lon="-111.8741306"/>
+ <node id="2390692034" visible="true" version="1" changeset="17025371" timestamp="2013-07-20T17:17:35Z" user="mvexel" uid="8909" lat="40.7607621" lon="-111.8722440"/>
+ <node id="83636964" visible="true" version="6" changeset="16808561" timestamp="2013-07-03T16:33:05Z" user="mvexel" uid="8909" lat="40.7682388" lon="-111.8853443"/>
+ <node id="2412222349" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7617333" lon="-111.8837724"/>
+ <node id="1581511466" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583248" lon="-111.8682501"/>
+ <node id="1218569175" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:36Z" user="NE2" uid="207745" lat="40.7605570" lon="-111.8781711"/>
+ <node id="1595623329" visible="true" version="2" changeset="12308255" timestamp="2012-07-19T05:56:01Z" user="mvexel" uid="8909" lat="40.7584875" lon="-111.8782384"/>
+ <node id="1584813075" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608281" lon="-111.8631758"/>
+ <node id="1615680796" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7585910" lon="-111.8879886"/>
+ <node id="1615681053" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7604968" lon="-111.8894250"/>
+ <node id="1584802834" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7604211" lon="-111.8626704"/>
+ <node id="1584802811" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7599667" lon="-111.8625242"/>
+ <node id="2140773399" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:12Z" user="mvexel" uid="8909" lat="40.7583236" lon="-111.8741524"/>
+ <node id="1218569142" visible="true" version="2" changeset="10327399" timestamp="2012-01-08T00:58:45Z" user="mvexel" uid="8909" lat="40.7605560" lon="-111.8739915">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218569379" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:52Z" user="NE2" uid="207745" lat="40.7605378" lon="-111.8871750"/>
+ <node id="1218569210" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:39Z" user="NE2" uid="207745" lat="40.7607555" lon="-111.8748341"/>
+ <node id="1584813082" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608425" lon="-111.8653295"/>
+ <node id="1615680896" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595541" lon="-111.8861172"/>
+ <node id="1581511606" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:31Z" user="mvexel" uid="8909" lat="40.7606551" lon="-111.8653303">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1581511459" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583223" lon="-111.8711592"/>
+ <node id="419865006" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:48Z" user="HurricaneCoast" uid="91266" lat="40.7594354" lon="-111.8861730"/>
+ <node id="2387851896" visible="true" version="1" changeset="16992117" timestamp="2013-07-17T20:18:44Z" user="mvexel" uid="8909" lat="40.7608216" lon="-111.8692674"/>
+ <node id="2364859920" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508" lat="40.7612927" lon="-111.8851545"/>
+ <node id="1584802819" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7601754" lon="-111.8625480"/>
+ <node id="1584802760" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584773" lon="-111.8611985"/>
+ <node id="1413918523" visible="true" version="1" changeset="9133890" timestamp="2011-08-26T22:52:33Z" user="mvexel" uid="8909" lat="40.7648430" lon="-111.8853041"/>
+ <node id="1584813066" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608236" lon="-111.8683914"/>
+ <node id="1581511476" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583255" lon="-111.8860573"/>
+ <node id="1615680895" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595530" lon="-111.8863103"/>
+ <node id="1615681059" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7607359" lon="-111.8855627"/>
+ <node id="1615681031" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604559" lon="-111.8910967"/>
+ <node id="1581511477" visible="true" version="2" changeset="13512986" timestamp="2012-10-15T23:56:46Z" user="nicke" uid="272789" lat="40.7583255" lon="-111.8882035"/>
+ <node id="1584802829" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7603017" lon="-111.8521608"/>
+ <node id="1967692070" visible="true" version="1" changeset="13512986" timestamp="2012-10-15T23:56:16Z" user="nicke" uid="272789" lat="40.7606396" lon="-111.8879617"/>
+ <node id="83673635" visible="true" version="7" changeset="7672295" timestamp="2011-03-26T06:14:26Z" user="NE2" uid="207745" lat="40.7613259" lon="-111.8837807"/>
+ <node id="1218569186" visible="true" version="3" changeset="10258141" timestamp="2011-12-31T21:28:10Z" user="mvexel" uid="8909" lat="40.7607642" lon="-111.8711570">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="419864988" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596434" lon="-111.8855894"/>
+ <node id="1584802879" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606427" lon="-111.8631150"/>
+ <node id="83586775" visible="true" version="6" changeset="2858422" timestamp="2009-10-15T20:42:23Z" user="woodpeck_fixbot" uid="147510" lat="40.7541174" lon="-111.8853512"/>
+ <node id="1581924730" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:02Z" user="mvexel" uid="8909" lat="40.7605540" lon="-111.8737936">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802863" visible="true" version="2" changeset="10353314" timestamp="2012-01-10T17:36:39Z" user="mvexel" uid="8909" lat="40.7606203" lon="-111.8655314">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584802796" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7593242" lon="-111.8624391"/>
+ <node id="1615681051" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7604959" lon="-111.8908675"/>
+ <node id="83608240" visible="true" version="9" changeset="10370868" timestamp="2012-01-12T16:39:28Z" user="mvexel" uid="8909" lat="40.7628859" lon="-111.8825774">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584813063" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7608225" lon="-111.8655427"/>
+ <node id="1584802838" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7604726" lon="-111.8517685"/>
+ <node id="1584813074" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608270" lon="-111.8650909"/>
+ <node id="1581511483" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583320" lon="-111.8872397"/>
+ <node id="1584802807" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7599137" lon="-111.8457646"/>
+ <node id="1584802941" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7609235" lon="-111.8491887"/>
+ <node id="1581511454" visible="true" version="2" changeset="14143151" timestamp="2012-12-03T19:06:37Z" user="mvexel" uid="8909" lat="40.7583190" lon="-111.8939171">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1967691831" visible="true" version="1" changeset="13512986" timestamp="2012-10-15T23:56:11Z" user="nicke" uid="272789" lat="40.7540237" lon="-111.8853536"/>
+ <node id="1530457176" visible="true" version="2" changeset="10353227" timestamp="2012-01-10T17:26:31Z" user="mvexel" uid="8909" lat="40.7608292" lon="-111.8475504">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1615681025" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604431" lon="-111.8889064"/>
+ <node id="1584802830" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7603206" lon="-111.8626035"/>
+ <node id="1584802763" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7585099" lon="-111.8614548"/>
+ <node id="1584802896" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606805" lon="-111.8908767"/>
+ <node id="1584802835" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7604494" lon="-111.8519964"/>
+ <node id="1584813062" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7608225" lon="-111.8630282"/>
+ <node id="1584802847" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7605422" lon="-111.8628439"/>
+ <node id="1584813056" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7607560" lon="-111.8737045"/>
+ <node id="1581924800" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:05Z" user="mvexel" uid="8909" lat="40.7692037" lon="-111.8853721"/>
+ <node id="1584802794" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7593110" lon="-111.8416367"/>
+ <node id="2412222344" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909" lat="40.7612927" lon="-111.8846786"/>
+ <node id="365493329" visible="true" version="8" changeset="10212907" timestamp="2011-12-27T05:43:43Z" user="NE2" uid="207745" lat="40.7597322" lon="-111.8451486">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1584802753" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584730" lon="-111.8525986"/>
+ <node id="1584802875" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606324" lon="-111.8719542"/>
+ <node id="1584802781" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7589978" lon="-111.8622361"/>
+ <node id="1481890808" visible="true" version="1" changeset="9664966" timestamp="2011-10-27T00:22:10Z" user="mvexel" uid="8909" lat="40.7584724" lon="-111.8872433"/>
+ <node id="1218569139" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:34Z" user="NE2" uid="207745" lat="40.7607521" lon="-111.8814931"/>
+ <node id="2018002741" visible="true" version="2" changeset="14903590" timestamp="2013-02-03T22:35:20Z" user="mvexel" uid="8909" lat="40.7584780" lon="-111.8541080">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1581511464" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583246" lon="-111.8683911"/>
+ <node id="1581511605" visible="true" version="2" changeset="10353227" timestamp="2012-01-10T17:26:31Z" user="mvexel" uid="8909" lat="40.7606603" lon="-111.8679793">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584813085" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608458" lon="-111.8707428"/>
+ <node id="1615680919" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:28Z" user="mvexel" uid="8909" lat="40.7596434" lon="-111.8855669"/>
+ <node id="1584802815" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7600904" lon="-111.8463186"/>
+ <node id="419864990" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596564" lon="-111.8857181"/>
+ <node id="1587201934" visible="true" version="1" changeset="10370868" timestamp="2012-01-12T16:39:14Z" user="mvexel" uid="8909" lat="40.7627588" lon="-111.8825827">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802801" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7594101" lon="-111.8624675"/>
+ <node id="1584802873" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606212" lon="-111.8735055"/>
+ <node id="1584802841" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7604778" lon="-111.8509781"/>
+ <node id="1584802771" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7587152" lon="-111.8619220"/>
+ <node id="83600854" visible="true" version="11" changeset="2858422" timestamp="2009-10-15T20:46:05Z" user="woodpeck_fixbot" uid="147510" lat="40.7519509" lon="-111.8853625"/>
+ <node id="419864992" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596889" lon="-111.8859499"/>
+ <node id="419865016" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:48Z" user="HurricaneCoast" uid="91266" lat="40.7594744" lon="-111.8855894"/>
+ <node id="1584802773" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7587728" lon="-111.8521756"/>
+ <node id="2048587926" visible="true" version="1" changeset="14143023" timestamp="2012-12-03T18:59:09Z" user="mvexel" uid="8909" lat="40.7638744" lon="-111.8825761">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing_ref" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1581511497" visible="true" version="2" changeset="12308255" timestamp="2012-07-19T05:56:01Z" user="mvexel" uid="8909" lat="40.7583438" lon="-111.8782369"/>
+ <node id="365493627" visible="true" version="14" changeset="16733294" timestamp="2013-06-27T22:29:10Z" user="mash84121" uid="1501508" lat="40.7594564" lon="-111.8521824">
+  <tag k="name" v="Stadium"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="railway" v="tram_stop"/>
+ </node>
+ <node id="1584802769" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7586439" lon="-111.8522039"/>
+ <node id="1584802930" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7608299" lon="-111.8910581"/>
+ <node id="1584802791" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7592667" lon="-111.8426096"/>
+ <node id="1218568965" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:21Z" user="NE2" uid="207745" lat="40.7607607" lon="-111.8757198"/>
+ <node id="1615680926" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:28Z" user="mvexel" uid="8909" lat="40.7596867" lon="-111.8860105"/>
+ <node id="1615680898" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:27Z" user="mvexel" uid="8909" lat="40.7595563" lon="-111.8859133"/>
+ <node id="1581511470" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583254" lon="-111.8911855"/>
+ <node id="1218569287" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:45Z" user="NE2" uid="207745" lat="40.7607581" lon="-111.8796345">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1218569096" visible="true" version="3" changeset="10258141" timestamp="2011-12-31T21:28:10Z" user="mvexel" uid="8909" lat="40.7605676" lon="-111.8711573">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802821" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7602201" lon="-111.8625582"/>
+ <node id="419865011" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:48Z" user="HurricaneCoast" uid="91266" lat="40.7594354" lon="-111.8858211"/>
+ <node id="1595623333" visible="true" version="2" changeset="12308255" timestamp="2012-07-19T05:56:01Z" user="mvexel" uid="8909" lat="40.7586426" lon="-111.8782433"/>
+ <node id="1581511625" visible="true" version="2" changeset="10353227" timestamp="2012-01-10T17:26:31Z" user="mvexel" uid="8909" lat="40.7606595" lon="-111.8683873">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1218569194" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:38Z" user="NE2" uid="207745" lat="40.7607358" lon="-111.8869316"/>
+ <node id="1967692073" visible="true" version="1" changeset="13512986" timestamp="2012-10-15T23:56:16Z" user="nicke" uid="272789" lat="40.7606559" lon="-111.8864029"/>
+ <node id="1581511612" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:31Z" user="mvexel" uid="8909" lat="40.7606578" lon="-111.8680843">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="365493327" visible="true" version="8" changeset="10212907" timestamp="2011-12-27T05:43:43Z" user="NE2" uid="207745" lat="40.7596442" lon="-111.8447407">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1218569247" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:42Z" user="NE2" uid="207745" lat="40.7607538" lon="-111.8782119"/>
+ <node id="1967692072" visible="true" version="1" changeset="13512986" timestamp="2012-10-15T23:56:16Z" user="nicke" uid="272789" lat="40.7606496" lon="-111.8855596"/>
+ <node id="1832170426" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:44Z" user="mvexel" uid="8909" lat="40.7590249" lon="-111.8521754">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1218569285" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:45Z" user="NE2" uid="207745" lat="40.7605369" lon="-111.8881916">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1615681027" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604479" lon="-111.8885138"/>
+ <node id="1581511479" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583255" lon="-111.8910975">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584813027" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:10Z" user="mvexel" uid="8909" lat="40.7583256" lon="-111.8737498"/>
+ <node id="1581511473" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583255" lon="-111.8767625"/>
+ <node id="1584802798" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7593728" lon="-111.8413836"/>
+ <node id="419865008" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:48Z" user="HurricaneCoast" uid="91266" lat="40.7594159" lon="-111.8860185"/>
+ <node id="1615681038" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604584" lon="-111.8855606"/>
+ <node id="1581924723" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:02Z" user="mvexel" uid="8909" lat="40.7583256" lon="-111.8737828"/>
+ <node id="2387849475" visible="true" version="1" changeset="16992083" timestamp="2013-07-17T20:16:05Z" user="mvexel" uid="8909" lat="40.7605655" lon="-111.8719580"/>
+ <node id="1218569038" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:26Z" user="NE2" uid="207745" lat="40.7605553" lon="-111.8750671"/>
+ <node id="2140773498" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7607578" lon="-111.8741350"/>
+ <node id="1584802858" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7605971" lon="-111.8629415"/>
+ <node id="1584802845" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7605198" lon="-111.8506765"/>
+ <node id="1615680800" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7586283" lon="-111.8880164"/>
+ <node id="1584802942" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7609252" lon="-111.8480876"/>
+ <node id="83547443" visible="true" version="16" changeset="13512986" timestamp="2012-10-15T23:56:49Z" user="nicke" uid="272789" lat="40.7584838" lon="-111.8882027">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1615681045" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604607" lon="-111.8909077"/>
+ <node id="419863656" visible="true" version="4" changeset="10568174" timestamp="2012-02-02T14:59:55Z" user="mvexel" uid="8909" lat="40.7586395" lon="-111.8855683"/>
+ <node id="83659823" visible="true" version="7" changeset="12330850" timestamp="2012-07-19T14:04:20Z" user="mvexel" uid="8909" lat="40.7497922" lon="-111.8853613">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584813061" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7608203" lon="-111.8698627"/>
+ <node id="1218568976" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:22Z" user="NE2" uid="207745" lat="40.7605395" lon="-111.8863471"/>
+ <node id="1584813069" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608245" lon="-111.8624674"/>
+ <node id="1585087078" visible="true" version="2" changeset="12308255" timestamp="2012-07-19T05:56:01Z" user="mvexel" uid="8909" lat="40.7584781" lon="-111.8824327">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802764" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7585426" lon="-111.8523355"/>
+ <node id="1218568964" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:21Z" user="NE2" uid="207745" lat="40.7607513" lon="-111.8806606"/>
+ <node id="2390692035" visible="true" version="1" changeset="17025371" timestamp="2013-07-20T17:17:35Z" user="mvexel" uid="8909" lat="40.7608294" lon="-111.8729167"/>
+ <node id="1584802864" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606203" lon="-111.8671882"/>
+ <node id="1584802885" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606588" lon="-111.8682581">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1585087086" visible="true" version="1" changeset="10355782" timestamp="2012-01-10T21:37:07Z" user="mvexel" uid="8909" lat="40.7605451" lon="-111.8824517">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802940" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7609167" lon="-111.8494892"/>
+ <node id="1615680880" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:26Z" user="mvexel" uid="8909" lat="40.7594744" lon="-111.8855669"/>
+ <node id="419864994" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596824" lon="-111.8861301"/>
+ <node id="1585087079" visible="true" version="1" changeset="10355782" timestamp="2012-01-10T21:37:07Z" user="mvexel" uid="8909" lat="40.7586451" lon="-111.8824326"/>
+ <node id="1615681015" visible="true" version="2" changeset="13512986" timestamp="2012-10-15T23:56:46Z" user="nicke" uid="272789" lat="40.7604224" lon="-111.8881922"/>
+ <node id="1584813079" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608314" lon="-111.8711556"/>
+ <node id="1218569235" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:41Z" user="NE2" uid="207745" lat="40.7605650" lon="-111.8721695"/>
+ <node id="83623441" visible="true" version="9" changeset="10355782" timestamp="2012-01-10T21:37:30Z" user="mvexel" uid="8909" lat="40.7650123" lon="-111.8853024">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="83547453" visible="true" version="12" changeset="12308255" timestamp="2012-07-19T05:56:03Z" user="mvexel" uid="8909" lat="40.7584983" lon="-111.8767679">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="83659813" visible="true" version="8" changeset="10370868" timestamp="2012-01-12T16:39:29Z" user="mvexel" uid="8909" lat="40.7628643" lon="-111.8853162">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802817" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7601720" lon="-111.8464899"/>
+ <node id="1584802880" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606452" lon="-111.8903936"/>
+ <node id="419865543" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:24:20Z" user="HurricaneCoast" uid="91266" lat="40.7595524" lon="-111.8864133"/>
+ <node id="1615681057" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:32Z" user="mvexel" uid="8909" lat="40.7605371" lon="-111.8879617"/>
+ <node id="1584813088" visible="true" version="2" changeset="13839847" timestamp="2012-11-11T21:31:39Z" user="mvexel" uid="8909" lat="40.7606203" lon="-111.8662768"/>
+ <node id="1615681035" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604575" lon="-111.8911952"/>
+ <node id="83608238" visible="true" version="10" changeset="10370868" timestamp="2012-01-12T16:39:28Z" user="mvexel" uid="8909" lat="40.7650078" lon="-111.8825825">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1581511457" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583221" lon="-111.8709501"/>
+ <node id="1967692068" visible="true" version="1" changeset="13512986" timestamp="2012-10-15T23:56:16Z" user="nicke" uid="272789" lat="40.7606227" lon="-111.8874872"/>
+ <node id="1615680804" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7586326" lon="-111.8867935"/>
+ <node id="1584802934" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7608883" lon="-111.8496752"/>
+ <node id="1615681041" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604591" lon="-111.8909841"/>
+ <node id="1584802836" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7604692" lon="-111.8518864"/>
+ <node id="1584813081" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608325" lon="-111.8767560"/>
+ <node id="1581511472" visible="true" version="2" changeset="10327399" timestamp="2012-01-08T00:58:47Z" user="mvexel" uid="8909" lat="40.7583235" lon="-111.8739672"/>
+ <node id="1584802932" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7608660" lon="-111.8476851"/>
+ <node id="1581511627" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:32Z" user="mvexel" uid="8909" lat="40.7607313" lon="-111.8909636">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="2390692036" visible="true" version="1" changeset="17025371" timestamp="2013-07-20T17:17:35Z" user="mvexel" uid="8909" lat="40.7608305" lon="-111.8722526"/>
+ <node id="1584802831" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7603335" lon="-111.8467291"/>
+ <node id="1584802805" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7597485" lon="-111.8452210"/>
+ <node id="83659817" visible="true" version="7" changeset="2858422" timestamp="2009-10-15T21:04:45Z" user="woodpeck_fixbot" uid="147510" lat="40.7562993" lon="-111.8853711"/>
+ <node id="419865013" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:48Z" user="HurricaneCoast" uid="91266" lat="40.7594679" lon="-111.8856924"/>
+ <node id="1584802761" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584782" lon="-111.8538736">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584802853" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7605705" lon="-111.8505143"/>
+ <node id="1584813086" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:14Z" user="mvexel" uid="8909" lat="40.7608491" lon="-111.8700410"/>
+ <node id="1218569358" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:50Z" user="NE2" uid="207745" lat="40.7605606" lon="-111.8767581">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1832170461" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:46Z" user="mvexel" uid="8909" lat="40.7592270" lon="-111.8521771">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1581511462" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583223" lon="-111.8967951"/>
+ <node id="1584813065" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608236" lon="-111.8665643"/>
+ <node id="1527763554" visible="true" version="1" changeset="10014066" timestamp="2011-12-02T03:41:24Z" user="mvexel" uid="8909" lat="40.7608418" lon="-111.8498346">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1218569278" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:44Z" user="NE2" uid="207745" lat="40.7607615" lon="-111.8729146"/>
+ <node id="83640662" visible="true" version="6" changeset="15036081" timestamp="2013-02-15T05:04:56Z" user="mvexel" uid="8909" lat="40.7671704" lon="-111.8853358">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="365493620" visible="true" version="4" changeset="12292461" timestamp="2012-07-18T18:28:40Z" user="OSMF Redaction Account" uid="722137" lat="40.7601390" lon="-111.8521738"/>
+ <node id="83668140" visible="true" version="7" changeset="9973750" timestamp="2011-11-28T01:11:41Z" user="mvexel" uid="8909" lat="40.7592708" lon="-111.8419140">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1615681036" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604578" lon="-111.8856345"/>
+ <node id="1218569366" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:51Z" user="NE2" uid="207745" lat="40.7604587" lon="-111.8910378"/>
+ <node id="1584813070" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608258" lon="-111.8796345"/>
+ <node id="1584802935" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7609021" lon="-111.8478710"/>
+ <node id="1524311224" visible="true" version="1" changeset="9995648" timestamp="2011-11-30T05:32:56Z" user="mvexel" uid="8909" lat="40.7542901" lon="-111.8853542"/>
+ <node id="83608249" visible="true" version="6" changeset="10355782" timestamp="2012-01-10T21:37:29Z" user="mvexel" uid="8909" lat="40.7571900" lon="-111.8824741"/>
+ <node id="1218568993" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:23Z" user="NE2" uid="207745" lat="40.7607607" lon="-111.8767567">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802802" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7594172" lon="-111.8434925"/>
+ <node id="83659821" visible="true" version="6" changeset="2858422" timestamp="2009-10-15T21:04:45Z" user="woodpeck_fixbot" uid="147510" lat="40.7530901" lon="-111.8853770"/>
+ <node id="1581511624" visible="true" version="2" changeset="10327399" timestamp="2012-01-08T00:58:47Z" user="mvexel" uid="8909" lat="40.7606680" lon="-111.8739896">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1587201908" visible="true" version="1" changeset="10370868" timestamp="2012-01-12T16:39:14Z" user="mvexel" uid="8909" lat="40.7627500" lon="-111.8853132">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1584802894" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:54Z" user="mvexel" uid="8909" lat="40.7606787" lon="-111.8716072"/>
+ <node id="1615681010" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:30Z" user="mvexel" uid="8909" lat="40.7604176" lon="-111.8884547"/>
+ <node id="1573548419" visible="true" version="2" changeset="14143023" timestamp="2012-12-03T18:59:10Z" user="mvexel" uid="8909" lat="40.7670149" lon="-111.8853318">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1587201903" visible="true" version="1" changeset="10370868" timestamp="2012-01-12T16:39:14Z" user="mvexel" uid="8909" lat="40.7616173" lon="-111.8825969">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1218569250" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:42Z" user="NE2" uid="207745" lat="40.7605562" lon="-111.8796327">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="2364859897" visible="true" version="2" changeset="17281209" timestamp="2013-08-09T16:15:55Z" user="mvexel" uid="8909" lat="40.7612935" lon="-111.8845562"/>
+ <node id="2274089406" visible="true" version="1" changeset="15801666" timestamp="2013-04-20T18:53:47Z" user="mvexel" uid="8909" lat="40.7564645" lon="-111.8824776"/>
+ <node id="1218569114" visible="true" version="2" changeset="10327399" timestamp="2012-01-08T00:58:45Z" user="mvexel" uid="8909" lat="40.7607583" lon="-111.8739930">
+  <tag k="highway" v="traffic_signals"/>
+ </node>
+ <node id="1581511494" visible="true" version="1" changeset="10325247" timestamp="2012-01-07T20:13:28Z" user="mvexel" uid="8909" lat="40.7583321" lon="-111.8795928"/>
+ <node id="1595623335" visible="true" version="1" changeset="10423740" timestamp="2012-01-18T00:28:35Z" user="mvexel" uid="8909" lat="40.7586357" lon="-111.8795967"/>
+ <node id="1584802938" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:55Z" user="mvexel" uid="8909" lat="40.7609054" lon="-111.8910967"/>
+ <node id="2426024209" visible="true" version="1" changeset="17433476" timestamp="2013-08-20T22:15:35Z" user="mvexel" uid="8909" lat="40.7499409" lon="-111.8853614"/>
+ <node id="2274089405" visible="true" version="1" changeset="15801666" timestamp="2013-04-20T18:53:47Z" user="mvexel" uid="8909" lat="40.7564663" lon="-111.8853671"/>
+ <node id="419865002" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7595459" lon="-111.8863103"/>
+ <node id="2140773494" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7605582" lon="-111.8731700"/>
+ <node id="1218569226" visible="true" version="1" changeset="7672295" timestamp="2011-03-26T06:13:40Z" user="NE2" uid="207745" lat="40.7605536" lon="-111.8811870"/>
+ <node id="1585087075" visible="true" version="1" changeset="10355782" timestamp="2012-01-10T21:37:07Z" user="mvexel" uid="8909" lat="40.7583237" lon="-111.8824329"/>
+ <node id="419864999" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596629" lon="-111.8862588"/>
+ <node id="2048582455" visible="true" version="1" changeset="14142968" timestamp="2012-12-03T18:56:00Z" user="mvexel" uid="8909" lat="40.7629944" lon="-111.8853154">
+  <tag k="crossing" v="traffic_signals"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <node id="1524313221" visible="true" version="1" changeset="9995669" timestamp="2011-11-30T05:35:30Z" user="mvexel" uid="8909" lat="40.7607627" lon="-111.8716757"/>
+ <node id="1584802785" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7592429" lon="-111.8422644"/>
+ <node id="2140773500" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7608262" lon="-111.8741371"/>
+ <node id="1581924725" visible="true" version="1" changeset="10327399" timestamp="2012-01-08T00:58:02Z" user="mvexel" uid="8909" lat="40.7584734" lon="-111.8595890">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="419865001" visible="true" version="1" changeset="1507884" timestamp="2009-06-13T20:23:47Z" user="HurricaneCoast" uid="91266" lat="40.7596239" lon="-111.8863103"/>
+ <node id="2140773491" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7605578" lon="-111.8758559"/>
+ <node id="1584802789" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7592540" lon="-111.8424569"/>
+ <node id="1584813078" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608282" lon="-111.8737030"/>
+ <node id="1584813059" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:12Z" user="mvexel" uid="8909" lat="40.7608192" lon="-111.8679851"/>
+ <node id="1584802748" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584661" lon="-111.8527165"/>
+ <node id="1584813068" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608238" lon="-111.8626700"/>
+ <node id="1584813064" visible="true" version="1" changeset="10353314" timestamp="2012-01-10T17:36:13Z" user="mvexel" uid="8909" lat="40.7608225" lon="-111.8682572"/>
+ <node id="83651398" visible="true" version="11" changeset="10353227" timestamp="2012-01-10T17:26:31Z" user="mvexel" uid="8909" lat="40.7608021" lon="-111.8474545">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="1584802757" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584756" lon="-111.8609763"/>
+ <node id="1584802882" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606487" lon="-111.8907508"/>
+ <node id="1615681023" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:31Z" user="mvexel" uid="8909" lat="40.7604392" lon="-111.8879231"/>
+ <node id="1584813024" visible="true" version="2" changeset="13839847" timestamp="2012-11-11T21:31:39Z" user="mvexel" uid="8909" lat="40.7606252" lon="-111.8729362"/>
+ <node id="1584802833" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:52Z" user="mvexel" uid="8909" lat="40.7603953" lon="-111.8520860"/>
+ <node id="2140773488" visible="true" version="1" changeset="14903504" timestamp="2013-02-03T22:26:13Z" user="mvexel" uid="8909" lat="40.7605554" lon="-111.8749878"/>
+ <node id="1584802804" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:51Z" user="mvexel" uid="8909" lat="40.7596079" lon="-111.8408511"/>
+ <node id="1584802766" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:50Z" user="mvexel" uid="8909" lat="40.7586104" lon="-111.8617463"/>
+ <node id="1615680789" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:23Z" user="mvexel" uid="8909" lat="40.7583254" lon="-111.8855753"/>
+ <node id="1584802877" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:53Z" user="mvexel" uid="8909" lat="40.7606395" lon="-111.8881907">
+  <tag k="railway" v="crossing"/>
+ </node>
+ <node id="1584802762" visible="true" version="1" changeset="10353227" timestamp="2012-01-10T17:25:49Z" user="mvexel" uid="8909" lat="40.7584936" lon="-111.8524795"/>
+ <way id="235195171" visible="true" version="1" changeset="17523137" timestamp="2013-08-26T18:50:15Z" user="brnrd" uid="1723150">
+  <nd ref="2432700785"/>
+  <nd ref="2432700786"/>
+  <nd ref="2432700787"/>
+  <nd ref="2432700788"/>
+  <nd ref="2432700789"/>
+  <nd ref="2432700790"/>
+  <nd ref="2432700791"/>
+  <nd ref="2432700792"/>
+  <nd ref="2432700785"/>
+  <tag k="area" v="yes"/>
+ </way>
+ <way id="127836958" visible="true" version="3" changeset="10353314" timestamp="2012-01-10T17:36:21Z" user="mvexel" uid="8909">
+  <nd ref="1413935165"/>
+  <nd ref="1413935168"/>
+  <nd ref="1413935201"/>
+  <nd ref="1413980487"/>
+  <nd ref="1584813031"/>
+  <nd ref="1413980486"/>
+  <nd ref="1413935199"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="172298550" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:54Z" user="mvexel" uid="8909">
+  <nd ref="1832170435"/>
+  <nd ref="1832170429"/>
+  <nd ref="1832170422"/>
+  <nd ref="1832170419"/>
+  <nd ref="1832170415"/>
+  <nd ref="1832170412"/>
+  <nd ref="1832170411"/>
+  <nd ref="1832170414"/>
+  <nd ref="1832170418"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127836963" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:34Z" user="mvexel" uid="8909">
+  <nd ref="376200041"/>
+  <nd ref="1413935150"/>
+  <nd ref="1413935149"/>
+  <nd ref="1413935146"/>
+  <nd ref="1413935151"/>
+  <nd ref="1413935152"/>
+  <nd ref="376200042"/>
+  <nd ref="376200041"/>
+  <tag k="natural" v="water"/>
+ </way>
+ <way id="127836961" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:34Z" user="mvexel" uid="8909">
+  <nd ref="1413935194"/>
+  <nd ref="1413935192"/>
+  <nd ref="1413935173"/>
+  <nd ref="1413935145"/>
+  <nd ref="1413935124"/>
+  <nd ref="1347046002"/>
+  <nd ref="1347046005"/>
+  <nd ref="1347046006"/>
+  <nd ref="1347046004"/>
+  <nd ref="1413935170"/>
+  <nd ref="1413935194"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="148470835" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:36Z" user="mvexel" uid="8909">
+  <nd ref="1615680800"/>
+  <nd ref="1615680804"/>
+  <nd ref="419863656"/>
+  <nd ref="1413980469"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127836955" visible="true" version="2" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909">
+  <nd ref="1413935097"/>
+  <nd ref="1413980471"/>
+  <nd ref="1413935096"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="232904097" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909">
+  <nd ref="2412222332"/>
+  <nd ref="2412222340"/>
+  <nd ref="2412222341"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="144622109" visible="true" version="6" changeset="14903504" timestamp="2013-02-03T22:26:14Z" user="mvexel" uid="8909">
+  <nd ref="1581511462"/>
+  <nd ref="1581511454"/>
+  <nd ref="1581511470"/>
+  <nd ref="1581511479"/>
+  <nd ref="1581511481"/>
+  <nd ref="1581511477"/>
+  <nd ref="1581511483"/>
+  <nd ref="1581511476"/>
+  <nd ref="1615680789"/>
+  <nd ref="1581511468"/>
+  <nd ref="1581511501"/>
+  <nd ref="1585087075"/>
+  <nd ref="1581511494"/>
+  <nd ref="1581511497"/>
+  <nd ref="1581511473"/>
+  <nd ref="2140773399"/>
+  <nd ref="1581511472"/>
+  <nd ref="1581924723"/>
+  <nd ref="1584813027"/>
+  <nd ref="1581511459"/>
+  <nd ref="1581511457"/>
+  <nd ref="1581511464"/>
+  <nd ref="1581511466"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="227848768" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508">
+  <nd ref="2364859891"/>
+  <nd ref="2364859886"/>
+  <nd ref="2364859889"/>
+  <nd ref="2364859910"/>
+  <nd ref="2364859891"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="105826033" visible="true" version="11" changeset="16992083" timestamp="2013-07-17T20:16:07Z" user="mvexel" uid="8909">
+  <nd ref="1218569285"/>
+  <nd ref="1615681057"/>
+  <nd ref="1218569379"/>
+  <nd ref="1218568976"/>
+  <nd ref="1615681058"/>
+  <nd ref="1218568997"/>
+  <nd ref="1584813032"/>
+  <nd ref="1218569101"/>
+  <nd ref="1218569271"/>
+  <nd ref="1413935203"/>
+  <nd ref="1218569362"/>
+  <nd ref="1218569041"/>
+  <nd ref="1218568969"/>
+  <nd ref="1585087086"/>
+  <nd ref="1218569226"/>
+  <nd ref="1218569250"/>
+  <nd ref="1218569175"/>
+  <nd ref="1218569358"/>
+  <nd ref="2140773491"/>
+  <nd ref="1218569038"/>
+  <nd ref="2140773488"/>
+  <nd ref="2140773490"/>
+  <nd ref="1218569142"/>
+  <nd ref="1581924730"/>
+  <nd ref="1584813033"/>
+  <nd ref="2140773494"/>
+  <nd ref="2140773496"/>
+  <nd ref="1218569235"/>
+  <nd ref="2387849475"/>
+  <nd ref="1218569096"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="loc_name" v="4th South"/>
+  <tag k="name" v="400 South"/>
+  <tag k="name:full" v="East 400 South"/>
+  <tag k="name:prefix" v="E"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="UT 186"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Salt Lake, UT"/>
+  <tag k="tiger:name_base" v="400"/>
+  <tag k="tiger:name_base_1" v="400 South"/>
+  <tag k="tiger:name_base_2" v="4th South"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_direction_prefix_1" v="E"/>
+  <tag k="tiger:name_direction_prefix_2" v="E"/>
+  <tag k="tiger:name_direction_suffix" v="S"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="84102"/>
+  <tag k="tiger:zip_right" v="84102"/>
+ </way>
+ <way id="127836956" visible="true" version="2" changeset="9134229" timestamp="2011-08-27T00:30:54Z" user="mvexel" uid="8909">
+  <nd ref="1413935111"/>
+  <nd ref="1413935113"/>
+  <nd ref="1413980473"/>
+  <nd ref="1413935116"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127836964" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:35Z" user="mvexel" uid="8909">
+  <nd ref="1413935135"/>
+  <nd ref="1413935138"/>
+  <nd ref="1413935137"/>
+  <nd ref="1413935141"/>
+  <nd ref="376200049"/>
+  <nd ref="376200051"/>
+  <nd ref="1413935121"/>
+  <nd ref="1413935123"/>
+  <nd ref="1413935129"/>
+  <nd ref="1413935135"/>
+  <tag k="natural" v="water"/>
+ </way>
+ <way id="172298527" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:51Z" user="mvexel" uid="8909">
+  <nd ref="1832170418"/>
+  <nd ref="1832170439"/>
+  <tag k="bridge" v="viaduct"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="1"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127840429" visible="true" version="3" changeset="13512986" timestamp="2012-10-15T23:56:34Z" user="nicke" uid="272789">
+  <nd ref="1413980482"/>
+  <nd ref="1413980485"/>
+  <nd ref="1413980486"/>
+  <nd ref="1584813031"/>
+  <nd ref="1413980487"/>
+  <nd ref="1413935186"/>
+  <nd ref="1413935184"/>
+  <nd ref="376200029"/>
+  <nd ref="376200025"/>
+  <nd ref="376200023"/>
+  <nd ref="1413935182"/>
+  <nd ref="376200022"/>
+  <nd ref="376200019"/>
+  <nd ref="1413980484"/>
+  <nd ref="1413980482"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="33194160" visible="true" version="11" changeset="17491880" timestamp="2013-08-24T23:31:18Z" user="brnrd" uid="1723150">
+  <nd ref="1347046009"/>
+  <nd ref="1413935115"/>
+  <nd ref="1413935110"/>
+  <nd ref="1413935104"/>
+  <nd ref="1413935102"/>
+  <nd ref="1413935108"/>
+  <nd ref="1413935114"/>
+  <nd ref="1413935120"/>
+  <nd ref="1347046002"/>
+  <nd ref="1347046005"/>
+  <nd ref="1347046006"/>
+  <nd ref="1347046004"/>
+  <nd ref="1413935157"/>
+  <nd ref="376200037"/>
+  <nd ref="376200036"/>
+  <nd ref="376200035"/>
+  <nd ref="376200033"/>
+  <nd ref="1413935184"/>
+  <nd ref="376200029"/>
+  <nd ref="376200025"/>
+  <nd ref="376200023"/>
+  <nd ref="1413935182"/>
+  <nd ref="376200022"/>
+  <nd ref="376200019"/>
+  <nd ref="376200016"/>
+  <nd ref="376200012"/>
+  <nd ref="376200009"/>
+  <nd ref="376200051"/>
+  <nd ref="376200049"/>
+  <nd ref="1413935141"/>
+  <nd ref="376200046"/>
+  <nd ref="1413935152"/>
+  <nd ref="376200042"/>
+  <nd ref="376200041"/>
+  <nd ref="1413935156"/>
+  <nd ref="1413935166"/>
+  <nd ref="1347045994"/>
+  <nd ref="1347046008"/>
+  <nd ref="1347046007"/>
+  <nd ref="1347046009"/>
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="amenity" v="library"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="6"/>
+  <tag k="elevator" v="yes"/>
+  <tag k="name" v="Salt Lake City Public Library"/>
+  <tag k="note" v="Salt Lake City Public Library"/>
+  <tag k="operator" v="Salt Lake City"/>
+  <tag k="phone" v="801-524-8200"/>
+  <tag k="website" v="slcpl.org"/>
+  <tag k="wheelchair" v="yes"/>
+  <tag k="wikipedia" v="en:Salt Lake City Public Library"/>
+ </way>
+ <way id="146295533" visible="true" version="1" changeset="10423740" timestamp="2012-01-18T00:28:36Z" user="mvexel" uid="8909">
+  <nd ref="1595623334"/>
+  <nd ref="1595623333"/>
+  <nd ref="1595623335"/>
+  <nd ref="1585087079"/>
+  <nd ref="1413980472"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127836960" visible="true" version="7" changeset="15843712" timestamp="2013-04-24T00:42:39Z" user="mvexel" uid="8909">
+  <nd ref="1832170482"/>
+  <nd ref="1832170480"/>
+  <nd ref="1832170472"/>
+  <nd ref="1832170452"/>
+  <nd ref="1832170445"/>
+  <nd ref="1832170441"/>
+  <nd ref="1832170437"/>
+  <nd ref="1832170439"/>
+  <nd ref="1832170447"/>
+  <nd ref="1832170450"/>
+  <nd ref="1832170451"/>
+  <nd ref="1832170454"/>
+  <nd ref="1832170464"/>
+  <nd ref="1832170476"/>
+  <nd ref="1832170483"/>
+  <nd ref="1413935119"/>
+  <nd ref="1413935109"/>
+  <nd ref="1413935106"/>
+  <nd ref="1832170453"/>
+  <nd ref="1413935105"/>
+  <nd ref="1413935101"/>
+  <nd ref="1413935100"/>
+  <nd ref="1413935098"/>
+  <nd ref="1832170432"/>
+  <nd ref="1413935099"/>
+  <nd ref="1413935103"/>
+  <nd ref="2278989971"/>
+  <nd ref="1413935111"/>
+  <nd ref="1413935112"/>
+  <nd ref="419857850"/>
+  <nd ref="419857849"/>
+  <nd ref="419857852"/>
+  <nd ref="1413935117"/>
+  <nd ref="1413980473"/>
+  <nd ref="1413935116"/>
+  <nd ref="1615680903"/>
+  <nd ref="1413935125"/>
+  <nd ref="1413980475"/>
+  <nd ref="376200009"/>
+  <nd ref="376200051"/>
+  <nd ref="1413935121"/>
+  <nd ref="1413935123"/>
+  <nd ref="1413935129"/>
+  <nd ref="1413935128"/>
+  <nd ref="1413935126"/>
+  <nd ref="1413935127"/>
+  <nd ref="1413935130"/>
+  <nd ref="1413935134"/>
+  <nd ref="1413935140"/>
+  <nd ref="1413935148"/>
+  <nd ref="1413935149"/>
+  <nd ref="1413935150"/>
+  <nd ref="376200041"/>
+  <nd ref="1413935156"/>
+  <nd ref="1413935166"/>
+  <nd ref="1347045994"/>
+  <nd ref="1347046007"/>
+  <nd ref="1347046009"/>
+  <nd ref="1413935115"/>
+  <nd ref="1413935110"/>
+  <nd ref="1413935104"/>
+  <nd ref="1413935102"/>
+  <nd ref="1413935108"/>
+  <nd ref="1413935114"/>
+  <nd ref="1413935120"/>
+  <nd ref="1347046002"/>
+  <nd ref="1413935124"/>
+  <nd ref="1413935145"/>
+  <nd ref="1413935173"/>
+  <nd ref="1413935192"/>
+  <nd ref="1832170531"/>
+  <nd ref="1832170529"/>
+  <nd ref="1832170512"/>
+  <nd ref="1832170500"/>
+  <nd ref="1832170490"/>
+  <nd ref="1832170487"/>
+  <nd ref="1413935122"/>
+  <nd ref="1413935118"/>
+  <nd ref="1832170482"/>
+  <tag k="area" v="yes"/>
+  <tag k="highway" v="pedestrian"/>
+  <tag k="surface" v="paved"/>
+ </way>
+ <way id="172298544" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:53Z" user="mvexel" uid="8909">
+  <nd ref="1832170441"/>
+  <nd ref="1832170431"/>
+  <nd ref="1832170427"/>
+  <nd ref="1832170421"/>
+  <nd ref="1832170420"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="148470828" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:35Z" user="mvexel" uid="8909">
+  <nd ref="1615681043"/>
+  <nd ref="1615681035"/>
+  <nd ref="1615681031"/>
+  <nd ref="1218569366"/>
+  <nd ref="1615681041"/>
+  <nd ref="1615681045"/>
+  <nd ref="1615681051"/>
+  <nd ref="1615681053"/>
+  <nd ref="1615681049"/>
+  <nd ref="1615681025"/>
+  <nd ref="1615681027"/>
+  <nd ref="1615681010"/>
+  <nd ref="1615681015"/>
+  <nd ref="1615681019"/>
+  <nd ref="1615681023"/>
+  <nd ref="1615681029"/>
+  <nd ref="1615681036"/>
+  <nd ref="1615681038"/>
+  <nd ref="1413935199"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="145012014" visible="true" version="3" changeset="13512986" timestamp="2012-10-15T23:56:30Z" user="nicke" uid="272789">
+  <nd ref="1413935205"/>
+  <nd ref="1967692072"/>
+  <nd ref="1967692073"/>
+  <nd ref="1967692068"/>
+  <nd ref="1967692070"/>
+  <nd ref="1584802877"/>
+  <nd ref="1584802880"/>
+  <nd ref="1218569322"/>
+  <nd ref="1584802882"/>
+  <nd ref="1584802896"/>
+  <nd ref="1581511627"/>
+  <nd ref="1581511630"/>
+  <nd ref="1584802923"/>
+  <nd ref="1584802930"/>
+  <nd ref="1584802938"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="railway" v="light_rail"/>
+  <tag k="voltage" v="750"/>
+ </way>
+ <way id="143652155" visible="true" version="9" changeset="17281209" timestamp="2013-08-09T16:15:54Z" user="mvexel" uid="8909">
+  <nd ref="1218569186"/>
+  <nd ref="1524313221"/>
+  <nd ref="2390692034"/>
+  <nd ref="1218569278"/>
+  <nd ref="1584813056"/>
+  <nd ref="1581924736"/>
+  <nd ref="1218569114"/>
+  <nd ref="2140773498"/>
+  <nd ref="1218569210"/>
+  <nd ref="1218568965"/>
+  <nd ref="1218568993"/>
+  <nd ref="1218569247"/>
+  <nd ref="1218569264"/>
+  <nd ref="1218569287"/>
+  <nd ref="1218568964"/>
+  <nd ref="1218569139"/>
+  <nd ref="1585087088"/>
+  <nd ref="1218568981"/>
+  <nd ref="1218569077"/>
+  <nd ref="1218569170"/>
+  <nd ref="1218569185"/>
+  <nd ref="1218569061"/>
+  <nd ref="2412222332"/>
+  <nd ref="1584813055"/>
+  <nd ref="1218569308"/>
+  <nd ref="1615681059"/>
+  <nd ref="1218569194"/>
+  <nd ref="1615681060"/>
+  <nd ref="1218569233"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="loc_name" v="4th South"/>
+  <tag k="name" v="400 South"/>
+  <tag k="name:full" v="East 400 South"/>
+  <tag k="name:prefix" v="E"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="UT 186"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Salt Lake, UT"/>
+  <tag k="tiger:name_base" v="400"/>
+  <tag k="tiger:name_base_1" v="400 South"/>
+  <tag k="tiger:name_base_2" v="4th South"/>
+  <tag k="tiger:name_direction_prefix" v="E"/>
+  <tag k="tiger:name_direction_prefix_1" v="E"/>
+  <tag k="tiger:name_direction_prefix_2" v="E"/>
+  <tag k="tiger:name_direction_suffix" v="S"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="84102"/>
+  <tag k="tiger:zip_right" v="84102"/>
+ </way>
+ <way id="127840430" visible="true" version="2" changeset="12382081" timestamp="2012-07-20T15:56:04Z" user="mvexel" uid="8909">
+  <nd ref="1413980472"/>
+  <nd ref="1832170391"/>
+  <nd ref="1413980471"/>
+  <nd ref="1832170392"/>
+  <nd ref="1413980470"/>
+  <nd ref="1413980469"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127840431" visible="true" version="3" changeset="15843712" timestamp="2013-04-24T00:42:39Z" user="mvexel" uid="8909">
+  <nd ref="1413980468"/>
+  <nd ref="1413980470"/>
+  <nd ref="2278989970"/>
+  <nd ref="1413980473"/>
+  <nd ref="1615680905"/>
+  <nd ref="1413980475"/>
+  <nd ref="1413980484"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="232904091" visible="true" version="1" changeset="17281209" timestamp="2013-08-09T16:15:53Z" user="mvexel" uid="8909">
+  <nd ref="2412222339"/>
+  <nd ref="2412222337"/>
+  <nd ref="2412222335"/>
+  <nd ref="2412222336"/>
+  <nd ref="2412222339"/>
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="addr:street" v="400 South"/>
+  <tag k="amenity" v="fast_food"/>
+  <tag k="brand" v="Burger King"/>
+  <tag k="cuisine" v="burger"/>
+  <tag k="delivery" v="no"/>
+  <tag k="drive_through" v="yes"/>
+  <tag k="name" v="Dunkin Donuts"/>
+  <tag k="operator" v="Burger King"/>
+  <tag k="smoking" v="outside"/>
+  <tag k="takeaway" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </way>
+ <way id="145012685" visible="true" version="5" changeset="17025371" timestamp="2013-07-20T17:17:35Z" user="mvexel" uid="8909">
+  <nd ref="1584813069"/>
+  <nd ref="1584813068"/>
+  <nd ref="1584813062"/>
+  <nd ref="1584813075"/>
+  <nd ref="1584813074"/>
+  <nd ref="1584813084"/>
+  <nd ref="1584813082"/>
+  <nd ref="1584813083"/>
+  <nd ref="1584813063"/>
+  <nd ref="1584813065"/>
+  <nd ref="1584813059"/>
+  <nd ref="1584813060"/>
+  <nd ref="1584813064"/>
+  <nd ref="1584813066"/>
+  <nd ref="2387851896"/>
+  <nd ref="1584813061"/>
+  <nd ref="1584813086"/>
+  <nd ref="1584813085"/>
+  <nd ref="1584813076"/>
+  <nd ref="1584813079"/>
+  <nd ref="1584813080"/>
+  <nd ref="2390692036"/>
+  <nd ref="2390692035"/>
+  <nd ref="1584813078"/>
+  <nd ref="1584813077"/>
+  <nd ref="1584813072"/>
+  <nd ref="2140773500"/>
+  <nd ref="1584813081"/>
+  <nd ref="1584813073"/>
+  <nd ref="1584813070"/>
+  <nd ref="1585087089"/>
+  <nd ref="1584813067"/>
+  <nd ref="1584813071"/>
+  <nd ref="1584813055"/>
+  <nd ref="1584813050"/>
+  <nd ref="1584813043"/>
+  <nd ref="1584813040"/>
+  <nd ref="1584813032"/>
+  <nd ref="1584813031"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="145012022" visible="true" version="8" changeset="13904397" timestamp="2012-11-17T12:02:28Z" user="rolandg" uid="8703">
+  <nd ref="1584802804"/>
+  <nd ref="1584802798"/>
+  <nd ref="1584802794"/>
+  <nd ref="83668140"/>
+  <nd ref="1584802787"/>
+  <nd ref="1584802785"/>
+  <nd ref="1584802789"/>
+  <nd ref="1584802791"/>
+  <nd ref="1584802802"/>
+  <nd ref="365493327"/>
+  <nd ref="365493329"/>
+  <nd ref="1584802805"/>
+  <nd ref="1584802807"/>
+  <nd ref="384747763"/>
+  <nd ref="1584802815"/>
+  <nd ref="1584802817"/>
+  <nd ref="1584802831"/>
+  <nd ref="1584802881"/>
+  <nd ref="83651398"/>
+  <nd ref="1530457176"/>
+  <nd ref="1832170550"/>
+  <nd ref="1584802932"/>
+  <nd ref="1584802935"/>
+  <nd ref="1584802942"/>
+  <nd ref="1584802941"/>
+  <nd ref="1584802940"/>
+  <nd ref="1584802934"/>
+  <nd ref="1527763554"/>
+  <nd ref="1584802926"/>
+  <nd ref="1584802919"/>
+  <nd ref="1584802853"/>
+  <nd ref="1584802845"/>
+  <nd ref="1519096936"/>
+  <nd ref="1584802841"/>
+  <nd ref="1584802838"/>
+  <nd ref="1584802836"/>
+  <nd ref="1584802835"/>
+  <nd ref="1584802833"/>
+  <nd ref="1584802832"/>
+  <nd ref="1584802829"/>
+  <nd ref="1832170516"/>
+  <nd ref="365493620"/>
+  <nd ref="365493627"/>
+  <nd ref="1832170461"/>
+  <nd ref="1832170426"/>
+  <nd ref="1584802773"/>
+  <nd ref="1584802769"/>
+  <nd ref="1485358639"/>
+  <nd ref="1584802764"/>
+  <nd ref="1584802762"/>
+  <nd ref="1584802753"/>
+  <nd ref="1584802748"/>
+  <nd ref="1584802761"/>
+  <nd ref="2018002741"/>
+  <nd ref="1581924725"/>
+  <nd ref="1584802757"/>
+  <nd ref="1584802760"/>
+  <nd ref="1584802763"/>
+  <nd ref="1584802766"/>
+  <nd ref="1584802771"/>
+  <nd ref="1584802780"/>
+  <nd ref="1584802781"/>
+  <nd ref="1584802783"/>
+  <nd ref="1584802796"/>
+  <nd ref="1584802801"/>
+  <nd ref="1584802803"/>
+  <nd ref="1584802811"/>
+  <nd ref="1584802819"/>
+  <nd ref="1584802821"/>
+  <nd ref="1584802830"/>
+  <nd ref="1584802834"/>
+  <nd ref="1584802847"/>
+  <nd ref="1584802858"/>
+  <nd ref="1584802879"/>
+  <nd ref="1584802886"/>
+  <nd ref="1581511606"/>
+  <nd ref="1584802863"/>
+  <nd ref="1584813088"/>
+  <nd ref="1584802864"/>
+  <nd ref="1584802884"/>
+  <nd ref="1581511605"/>
+  <nd ref="1581511612"/>
+  <nd ref="1584802885"/>
+  <nd ref="1581511625"/>
+  <nd ref="1571999296"/>
+  <nd ref="1524313220"/>
+  <nd ref="1584802894"/>
+  <nd ref="1584802875"/>
+  <nd ref="1584813024"/>
+  <nd ref="1584802873"/>
+  <nd ref="1584813044"/>
+  <nd ref="1581924735"/>
+  <nd ref="1581511624"/>
+  <nd ref="1581511620"/>
+  <nd ref="1581511616"/>
+  <nd ref="1585087087"/>
+  <nd ref="1581511610"/>
+  <nd ref="1584802888"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="railway" v="light_rail"/>
+  <tag k="voltage" v="750"/>
+ </way>
+ <way id="146295534" visible="true" version="3" changeset="14181642" timestamp="2012-12-06T22:34:45Z" user="Sundance" uid="239998">
+  <nd ref="83547453"/>
+  <nd ref="1595623329"/>
+  <nd ref="83541857"/>
+  <nd ref="1585087078"/>
+  <nd ref="83547447"/>
+  <nd ref="1413935096"/>
+  <nd ref="1413980468"/>
+  <nd ref="83547445"/>
+  <nd ref="1615680792"/>
+  <nd ref="1481890808"/>
+  <nd ref="83547443"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="3"/>
+  <tag k="loc_name" v="5th South"/>
+  <tag k="name" v="East 500 South"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="35918729" visible="true" version="2" changeset="9134074" timestamp="2011-08-26T23:34:39Z" user="mvexel" uid="8909">
+  <nd ref="419857849"/>
+  <nd ref="419857850"/>
+  <nd ref="1413935112"/>
+  <nd ref="419857851"/>
+  <nd ref="419857852"/>
+  <nd ref="419857849"/>
+  <tag k="leisure" v="garden"/>
+  <tag k="name" v="Waterfall Garden"/>
+ </way>
+ <way id="127836951" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:31Z" user="mvexel" uid="8909">
+  <nd ref="1413935138"/>
+  <nd ref="1413935142"/>
+  <nd ref="1413935144"/>
+  <nd ref="1413935147"/>
+  <nd ref="1413935146"/>
+  <nd ref="1413935143"/>
+  <nd ref="1413935139"/>
+  <nd ref="1413935136"/>
+  <nd ref="1413935133"/>
+  <nd ref="1413935132"/>
+  <nd ref="1413935131"/>
+  <nd ref="1413935135"/>
+  <tag k="name" v="Amphitheatre"/>
+ </way>
+ <way id="172298551" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:54Z" user="mvexel" uid="8909">
+  <nd ref="1832170391"/>
+  <nd ref="1832170406"/>
+  <nd ref="1832170416"/>
+  <nd ref="1832170420"/>
+  <nd ref="1832170423"/>
+  <nd ref="1832170430"/>
+  <nd ref="1832170435"/>
+  <nd ref="1832170446"/>
+  <nd ref="1832170453"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="145040503" visible="true" version="6" changeset="15801666" timestamp="2013-04-20T18:53:58Z" user="mvexel" uid="8909">
+  <nd ref="1581511501"/>
+  <nd ref="83608244"/>
+  <nd ref="83608249"/>
+  <nd ref="2274089406"/>
+  <nd ref="83608251"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lcn" v="yes"/>
+  <tag k="loc_name" v="3rd East"/>
+  <tag k="name" v="300 East"/>
+  <tag k="name:full" v="South 300 East"/>
+  <tag k="name:prefix" v="S"/>
+ </way>
+ <way id="10141763" visible="true" version="29" changeset="17433476" timestamp="2013-08-20T22:15:37Z" user="mvexel" uid="8909">
+  <nd ref="83659809"/>
+  <nd ref="1581924800"/>
+  <nd ref="83636964"/>
+  <nd ref="1573548503"/>
+  <nd ref="1573548444"/>
+  <nd ref="83640662"/>
+  <nd ref="1573548419"/>
+  <nd ref="1413918534"/>
+  <nd ref="83623441"/>
+  <nd ref="1413918523"/>
+  <nd ref="2048582455"/>
+  <nd ref="83659813"/>
+  <nd ref="1587201908"/>
+  <nd ref="2412222341"/>
+  <nd ref="1218569308"/>
+  <nd ref="1584802890"/>
+  <nd ref="1413935205"/>
+  <nd ref="1218568997"/>
+  <nd ref="1413935199"/>
+  <nd ref="1615680924"/>
+  <nd ref="1615680901"/>
+  <nd ref="1615680882"/>
+  <nd ref="1413980469"/>
+  <nd ref="83547445"/>
+  <nd ref="1581511468"/>
+  <nd ref="2274089405"/>
+  <nd ref="83659817"/>
+  <nd ref="83659819"/>
+  <nd ref="1524311224"/>
+  <nd ref="83586775"/>
+  <nd ref="1967691831"/>
+  <nd ref="83659821"/>
+  <nd ref="83600854"/>
+  <nd ref="2426024209"/>
+  <nd ref="83659823"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="4"/>
+  <tag k="loc_name" v="2nd East"/>
+  <tag k="name" v="200 East"/>
+  <tag k="name:full" v="South 200 East"/>
+  <tag k="name:prefix" v="S"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Salt Lake, UT"/>
+  <tag k="tiger:name_base" v="200"/>
+  <tag k="tiger:name_base_1" v="2nd East"/>
+  <tag k="tiger:name_direction_prefix" v="S"/>
+  <tag k="tiger:name_direction_prefix_1" v="S"/>
+  <tag k="tiger:name_direction_suffix" v="E"/>
+  <tag k="tiger:name_type_1" v="St"/>
+  <tag k="tiger:reviewed" v="yes"/>
+  <tag k="tiger:zip_left" v="84115"/>
+  <tag k="tiger:zip_right" v="84111"/>
+ </way>
+ <way id="148470817" visible="true" version="1" changeset="10568174" timestamp="2012-02-02T14:59:33Z" user="mvexel" uid="8909">
+  <nd ref="1615681047"/>
+  <nd ref="1615681055"/>
+  <nd ref="1615680798"/>
+  <nd ref="1615680796"/>
+  <nd ref="1615681047"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Washington Square"/>
+ </way>
+ <way id="145012027" visible="true" version="3" changeset="10353314" timestamp="2012-01-10T17:36:16Z" user="mvexel" uid="8909">
+  <nd ref="1584802888"/>
+  <nd ref="1584802898"/>
+  <nd ref="1584813023"/>
+  <nd ref="1584802892"/>
+  <nd ref="1584813050"/>
+  <nd ref="1413935205"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="railway" v="light_rail"/>
+  <tag k="voltage" v="750"/>
+ </way>
+ <way id="127836962" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:34Z" user="mvexel" uid="8909">
+  <nd ref="1413935184"/>
+  <nd ref="1413935186"/>
+  <nd ref="1413935188"/>
+  <nd ref="1413935171"/>
+  <nd ref="1413935157"/>
+  <nd ref="376200037"/>
+  <nd ref="376200036"/>
+  <nd ref="376200035"/>
+  <nd ref="376200033"/>
+  <nd ref="1413935184"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="35919284" visible="true" version="2" changeset="10568174" timestamp="2012-02-02T14:59:48Z" user="mvexel" uid="8909">
+  <nd ref="1615680905"/>
+  <nd ref="1615680903"/>
+  <nd ref="1615680901"/>
+  <nd ref="419865541"/>
+  <nd ref="1615680898"/>
+  <nd ref="1615680896"/>
+  <nd ref="1615680895"/>
+  <nd ref="419865543"/>
+  <tag k="foot" v="yes"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="145012689" visible="true" version="2" changeset="10353824" timestamp="2012-01-10T18:30:13Z" user="mvexel" uid="8909">
+  <nd ref="1584813043"/>
+  <nd ref="1584813042"/>
+  <tag k="bench" v="yes"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="operator" v="UTA"/>
+  <tag k="public_transport" v="platform"/>
+  <tag k="shelter" v="yes"/>
+ </way>
+ <way id="145012016" visible="true" version="2" changeset="10353314" timestamp="2012-01-10T17:36:17Z" user="mvexel" uid="8909">
+  <nd ref="1413935205"/>
+  <nd ref="1584813040"/>
+  <nd ref="1584802859"/>
+  <nd ref="1584813022"/>
+  <nd ref="1584802860"/>
+  <nd ref="1584802888"/>
+  <tag k="electrified" v="contact_line"/>
+  <tag k="frequency" v="0"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="railway" v="light_rail"/>
+  <tag k="voltage" v="750"/>
+ </way>
+ <way id="172298545" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:53Z" user="mvexel" uid="8909">
+  <nd ref="1832170450"/>
+  <nd ref="1832170448"/>
+  <nd ref="1832170444"/>
+  <nd ref="1832170434"/>
+  <nd ref="1832170430"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="35919623" visible="true" version="6" changeset="16450753" timestamp="2013-06-06T22:22:26Z" user="mash84121" uid="1501508">
+  <nd ref="419869258"/>
+  <nd ref="419869259"/>
+  <nd ref="419869260"/>
+  <nd ref="419869261"/>
+  <nd ref="2278989969"/>
+  <nd ref="419869258"/>
+  <tag k="addr:city" v="Salt Lake City"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="The Leonardo"/>
+  <tag k="tourism" v="museum"/>
+ </way>
+ <way id="227848767" visible="true" version="2" changeset="17281209" timestamp="2013-08-09T16:15:54Z" user="mvexel" uid="8909">
+  <nd ref="2364859920"/>
+  <nd ref="2364859908"/>
+  <nd ref="2364859915"/>
+  <nd ref="2364859897"/>
+  <nd ref="2412222344"/>
+  <nd ref="2364859920"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="127836953" visible="true" version="2" changeset="13512986" timestamp="2012-10-15T23:56:34Z" user="nicke" uid="272789">
+  <nd ref="1413935154"/>
+  <nd ref="1413935165"/>
+  <tag k="highway" v="footway"/>
+  <tag k="layer" v="-1"/>
+  <tag k="surface" v="concrete"/>
+  <tag k="tunnel" v="yes"/>
+ </way>
+ <way id="227848766" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508">
+  <nd ref="2364859896"/>
+  <nd ref="2364859893"/>
+  <nd ref="2364859913"/>
+  <nd ref="2364859884"/>
+  <nd ref="2364859898"/>
+  <nd ref="2364859896"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="127836959" visible="true" version="2" changeset="15843712" timestamp="2013-04-24T00:42:39Z" user="mvexel" uid="8909">
+  <nd ref="1413935117"/>
+  <nd ref="419857853"/>
+  <nd ref="1413935113"/>
+  <nd ref="1413935107"/>
+  <nd ref="2278989969"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="227848764" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508">
+  <nd ref="2364859904"/>
+  <nd ref="2364859888"/>
+  <nd ref="2364859919"/>
+  <nd ref="2364859899"/>
+  <nd ref="2364859904"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="172298528" visible="true" version="1" changeset="12382081" timestamp="2012-07-20T15:55:51Z" user="mvexel" uid="8909">
+  <nd ref="1832170392"/>
+  <nd ref="1832170432"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="127836952" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:32Z" user="mvexel" uid="8909">
+  <nd ref="1413935146"/>
+  <nd ref="1413935149"/>
+  <nd ref="1413935148"/>
+  <nd ref="1413935140"/>
+  <nd ref="1413935134"/>
+  <nd ref="1413935130"/>
+  <nd ref="1413935127"/>
+  <nd ref="1413935126"/>
+  <nd ref="1413935128"/>
+  <nd ref="1413935129"/>
+  <nd ref="1413935135"/>
+  <nd ref="1413935131"/>
+  <nd ref="1413935132"/>
+  <nd ref="1413935133"/>
+  <nd ref="1413935136"/>
+  <nd ref="1413935139"/>
+  <nd ref="1413935143"/>
+  <nd ref="1413935146"/>
+  <tag k="area" v="yes"/>
+  <tag k="cutting" v="yes"/>
+  <tag k="highway" v="steps"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="227848762" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508">
+  <nd ref="2364859901"/>
+  <nd ref="2364859895"/>
+  <nd ref="2364859892"/>
+  <nd ref="2364859900"/>
+  <nd ref="2364859901"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="145294122" visible="true" version="4" changeset="14143023" timestamp="2012-12-03T18:59:09Z" user="mvexel" uid="8909">
+  <nd ref="83608238"/>
+  <nd ref="1413918525"/>
+  <nd ref="2048587926"/>
+  <nd ref="1587201966"/>
+  <nd ref="2048582446"/>
+  <nd ref="83608240"/>
+  <nd ref="1587201934"/>
+  <nd ref="1587201903"/>
+  <nd ref="1584813067"/>
+  <nd ref="1218568981"/>
+  <nd ref="1581511610"/>
+  <nd ref="1218568969"/>
+  <nd ref="1585087084"/>
+  <nd ref="1413980472"/>
+  <nd ref="83547447"/>
+  <nd ref="1581511501"/>
+  <tag k="cycleway" v="lane"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lanes" v="1"/>
+  <tag k="loc_name" v="3rd East"/>
+  <tag k="maxspeed" v="20mph"/>
+  <tag k="name" v="300 East"/>
+  <tag k="name:full" v="South 300 East"/>
+  <tag k="name:prefix" v="S"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="218670238" visible="true" version="1" changeset="15843712" timestamp="2013-04-24T00:42:36Z" user="mvexel" uid="8909">
+  <nd ref="2278989970"/>
+  <nd ref="1413935107"/>
+  <nd ref="2278989971"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="127836957" visible="true" version="1" changeset="9134074" timestamp="2011-08-26T23:34:33Z" user="mvexel" uid="8909">
+  <nd ref="1413935203"/>
+  <nd ref="1413935190"/>
+  <nd ref="1413935095"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="127840432" visible="true" version="1" changeset="9134229" timestamp="2011-08-27T00:30:53Z" user="mvexel" uid="8909">
+  <nd ref="1413935182"/>
+  <nd ref="1413935181"/>
+  <nd ref="1413935169"/>
+  <nd ref="1413935167"/>
+  <nd ref="1413935156"/>
+  <nd ref="1413935154"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="227848769" visible="true" version="1" changeset="16744422" timestamp="2013-06-28T20:25:39Z" user="mash84121" uid="1501508">
+  <nd ref="2364859894"/>
+  <nd ref="2364859903"/>
+  <nd ref="2364859921"/>
+  <nd ref="2364859913"/>
+  <nd ref="2364859894"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="10143700" visible="true" version="8" changeset="17281209" timestamp="2013-08-09T16:15:54Z" user="mvexel" uid="8909">
+  <nd ref="2412222349"/>
+  <nd ref="83673635"/>
+  <nd ref="83662988"/>
+  <tag k="FIXME" v="Which alley is this?"/>
+  <tag k="highway" v="service"/>
+  <tag k="name" v="Moffat Court"/>
+  <tag k="service" v="alley"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Salt Lake, UT"/>
+  <tag k="tiger:name_base" v="Moffat"/>
+  <tag k="tiger:name_type" v="Ct"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="84111"/>
+  <tag k="tiger:zip_right" v="84111"/>
+ </way>
+ <way id="35919244" visible="true" version="3" changeset="10568174" timestamp="2012-02-02T14:59:44Z" user="mvexel" uid="8909">
+  <nd ref="1615680924"/>
+  <nd ref="1615680919"/>
+  <nd ref="419864988"/>
+  <nd ref="419864990"/>
+  <nd ref="419864992"/>
+  <nd ref="1615680926"/>
+  <nd ref="419864994"/>
+  <nd ref="419864999"/>
+  <nd ref="419865001"/>
+  <nd ref="1615680895"/>
+  <nd ref="419865002"/>
+  <nd ref="419865004"/>
+  <nd ref="419865006"/>
+  <nd ref="419865008"/>
+  <nd ref="419865011"/>
+  <nd ref="419865013"/>
+  <nd ref="419865016"/>
+  <nd ref="1615680880"/>
+  <nd ref="1615680882"/>
+  <tag k="highway" v="service"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <relation id="1963851" visible="true" version="1" changeset="10353824" timestamp="2012-01-10T18:30:03Z" user="mvexel" uid="8909">
+  <member type="node" ref="1584813023" role="stop"/>
+  <member type="node" ref="1584813022" role="stop"/>
+  <member type="way" ref="145012689" role="platform"/>
+  <member type="node" ref="1584879733" role=""/>
+  <tag k="name" v="Library"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="operator" v="UTA"/>
+  <tag k="public_transport" v="stop_area"/>
+  <tag k="type" v="public_transport"/>
+ </relation>
+ <relation id="1516765" visible="true" version="9" changeset="15748109" timestamp="2013-04-16T10:52:24Z" user="joschi81" uid="22449">
+  <member type="way" ref="145012015" role=""/>
+  <member type="way" ref="145012021" role=""/>
+  <member type="way" ref="145012020" role=""/>
+  <member type="way" ref="145012017" role=""/>
+  <member type="way" ref="145012019" role=""/>
+  <member type="way" ref="145012022" role=""/>
+  <member type="way" ref="145012027" role=""/>
+  <member type="way" ref="145012014" role=""/>
+  <member type="way" ref="106345198" role=""/>
+  <member type="way" ref="217629911" role=""/>
+  <member type="way" ref="217629910" role=""/>
+  <tag k="color" v="red"/>
+  <tag k="from" v="University Medical Center"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="operator" v="UTA"/>
+  <tag k="route" v="light_rail"/>
+  <tag k="to" v="Salt Lake Central Station"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="1505169" visible="true" version="14" changeset="15966146" timestamp="2013-05-03T21:26:59Z" user="mvexel" uid="8909">
+  <member type="way" ref="105826049" role="forward"/>
+  <member type="way" ref="105826036" role="forward"/>
+  <member type="way" ref="105826035" role="forward"/>
+  <member type="way" ref="105826030" role="forward"/>
+  <member type="way" ref="204059366" role="forward"/>
+  <member type="way" ref="105826050" role="forward"/>
+  <member type="way" ref="204059860" role="forward"/>
+  <member type="way" ref="105826047" role="forward"/>
+  <member type="way" ref="105826039" role="forward"/>
+  <member type="way" ref="143652154" role="forward"/>
+  <member type="way" ref="143652155" role="forward"/>
+  <member type="way" ref="105826033" role="forward"/>
+  <member type="way" ref="143652152" role="forward"/>
+  <member type="way" ref="143652157" role="forward"/>
+  <member type="way" ref="171149504" role="forward"/>
+  <member type="way" ref="48707621" role=""/>
+  <member type="way" ref="218670236" role=""/>
+  <member type="way" ref="144595735" role=""/>
+  <member type="way" ref="36022081" role=""/>
+  <member type="way" ref="134838572" role=""/>
+  <member type="way" ref="48707620" role=""/>
+  <member type="way" ref="10150959" role=""/>
+  <member type="way" ref="134838570" role=""/>
+  <member type="way" ref="134838571" role=""/>
+  <member type="way" ref="31934740" role=""/>
+  <member type="way" ref="10130216" role=""/>
+  <member type="way" ref="10147520" role=""/>
+  <member type="way" ref="219956231" role=""/>
+  <member type="way" ref="219956230" role=""/>
+  <member type="way" ref="219956232" role=""/>
+  <member type="way" ref="36019205" role="backward"/>
+  <tag k="network" v="US:UT"/>
+  <tag k="ref" v="186"/>
+  <tag k="route" v="road"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="1963852" visible="true" version="3" changeset="15748109" timestamp="2013-04-16T10:52:24Z" user="joschi81" uid="22449">
+  <member type="way" ref="217629911" role=""/>
+  <member type="way" ref="106345198" role=""/>
+  <member type="way" ref="217629910" role=""/>
+  <member type="way" ref="145012014" role=""/>
+  <member type="way" ref="145012016" role=""/>
+  <member type="way" ref="145012022" role=""/>
+  <member type="way" ref="145012018" role=""/>
+  <member type="way" ref="145012017" role=""/>
+  <member type="way" ref="145012020" role=""/>
+  <member type="way" ref="145012023" role=""/>
+  <member type="way" ref="145012015" role=""/>
+  <tag k="color" v="red"/>
+  <tag k="from" v="Salt Lake Central Station"/>
+  <tag k="name" v="Red Line"/>
+  <tag k="network" v="TRAX"/>
+  <tag k="operator" v="UTA"/>
+  <tag k="route" v="light_rail"/>
+  <tag k="to" v="University Medical Center"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

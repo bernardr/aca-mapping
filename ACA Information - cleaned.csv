@@ -1,0 +1,20 @@
+location ,address,city-zip,geo_longitude,geo_latitude,geo_accuracy,hours,services,notes
+"Community Health Centers, Inc.","220 West 7200 South, Suite A","Midvale, UT 84047",-111.988570243634,40.7491527327541,,,,
+Central City Community Health Center,461 South 400 East,"Salt Lake City, UT 84111-3302",-111.899417002655,40.6221965356155,,"Hours of Operation: Mon. 8am-8pm, T-F 8am-5pm, Sat. 8am-Noon; Dental M-F 
+7:30am-5pm","Services: primary medical, pre-natal & obstetrics, pediatric care, dental 
+and mental health",
+72nd St Clinic,"220 West 7200 South, Suite A","Midvale, UT 84047",-111.898151,40.6213089,,"Hours of Operation: M 8am-12pm, 1pm-7:45pm; T-F 8am-12pm, 1pm-5pm; W 
+9:15am-12pm, 1pm-5pm","Services: primary medical, mental health",
+Oquirrh View Community Health Center,4745 South 3200 West,"Salt Lake City, UT 84118",-111.955682264465,40.6646722376782,,*dental suite closed due to funding,"Hours of Operation: M-T 8am-8pm; W 9am-8pm; TH-F 8am-5pm; 2nd Tues of month 
+9am-8pm","Services: primary medical, pre-natal & obstetrics, pediatric care, mental 
+health"
+Stephen D. Ratcliffe Community Health Center,1365 West 1000 North,"Salt Lake City, UT 84116-1654",-111.930665,40.790543,,"Hours of Operation: Mon 8am-8pm, T-F 8am-5pm; Dental M, W, TH 7:30am-5pm, T 
+10am-5pm","Services: primary medical, pre-natal & obstetrics, pediatric care, dental, 
+and mental health",
+Utah Farm Worker Health Program,461 South 400 East,"Salt Lake City, UT 84111",-111.879529,40.7593534285714,house,,,
+Clinica de Buena Salud,"14 North 100 East, #2","Brigham City, UT 84302",-111.017679805486,39.2119957580974,house,"Hours of Operation: 3rd and 4th M 8am-1pm, T 8am-6pm, 1st and 2nd W 
+1pm-5pm; Dental M-W 8am-6:30pm; Lab TH 8am-5pm, F 8am-1pm; Office TH 
+8am-5pm, 9am-1pm","Services: primary medical, pre-natal, and dental; mobile primary medical at 
+Farm/Field Worker locations state-wide; obstetrics referred to local 
+provider, mental health referred to local provider or Central City 
+Community Health Center",
