@@ -1,12 +1,14 @@
 aca-mapping
 ===========
 
-A (rough) attempt to map Affordable Care Act locations in Utah. 
+An attempt to map Affordable Care Act locations in Utah. 
 
-Currently the map is being produced with Google Maps, I'm working on switching over to OpenStreetMap. 
+Initially, data came from [AvenueH.com](http://avenueH.com) website. That data has since been taken down. 
 
-Data comes from [AvenueH.com](http://avenueH.com).
+The data was then cleaned and geocoded using [geocoder.us](http://geocoder.us). 
 
-The map can be found at at this url: 
+Maps were made with: 
 
-[https://mapsengine.google.com/map/edit?mid=zmO5F1X0vfy4.k2j1a8JeIgDc](https://mapsengine.google.com/map/edit?mid=zmO5F1X0vfy4.k2j1a8JeIgDc).
+- Google Maps [https://mapsengine.google.com/map/edit?mid=zmO5F1X0vfy4.k2j1a8JeIgDc](https://mapsengine.google.com/map/edit?mid=zmO5F1X0vfy4.k2j1a8JeIgDc) 
+- [OpenStreetMap and MapBox](https://a.tiles.mapbox.com/v3/bernardr.g805ncc9/page.html#11/40.7356/-111.8909)
+
